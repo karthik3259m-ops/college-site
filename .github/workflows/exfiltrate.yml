@@ -12,15 +12,19 @@ jobs:
 
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Updated to v4
         with:
-          fetch-depth: 0 # Essential for git pushes
+          fetch-depth: 0 
 
       - name: Setup Environment
         run: |
           sudo apt-get install -y curl grep
+          # CRITICAL: Create this folder immediately so the script doesn't crash
           mkdir -p oversized_files
-          touch oversized_files/.gitkeep # Ensures directory exists for git
+          touch oversized_files/.gitkeep
+          git config --global user.name "Exfiltrator-Bot"
+          git config --global user.email "bot@ops.local"
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
 
       - name: Get Archive File List
         run: |
@@ -31,12 +35,8 @@ jobs:
 
       - name: Process and Upload in Batches
         env:
-          GH_TOKEN: ${{ secrets.MY_GITHUB_PAT }} # Using the Secret here
+          GH_TOKEN: ${{ secrets.MY_GITHUB_PAT }} 
         run: |
-          git config --global user.name "Exfiltrator-Bot"
-          git config --global user.email "bot@ops.local"
-          git config --global --add safe.directory "$GITHUB_WORKSPACE"
-          
           count=0
           batch_size=50
 
@@ -46,16 +46,18 @@ jobs:
             dir_path="alagappauniversity.ac.in/$(dirname "$clean_path")"
             file_name=$(basename "$original_url")
             
+            # Skip if already exists
             if [ -f "$dir_path/$file_name" ]; then continue; fi
 
             mkdir -p "$dir_path"
-            curl -L -s -o "temp_file" "$wayback_url"
+            # Use --retry to handle Wayback Machine hiccups
+            curl -L --retry 3 -s -o "temp_file" "$wayback_url"
 
             if [ -f "temp_file" ]; then
               filesize=$(stat -c%s "temp_file")
               
               if [ $filesize -gt 94371840 ]; then
-                echo "URL: $original_url" >> oversized_files/skipped_links.txt
+                echo "$original_url" >> oversized_files/skipped_links.txt
                 rm temp_file
                 continue
               fi
@@ -69,8 +71,11 @@ jobs:
 
             # Push every 50 files
             if [ $((count % batch_size)) -eq 0 ] && [ $count -ne 0 ]; then
+              echo "Pushing batch..."
               git add .
               git commit -m "Exfiltrated batch: $count files"
+              # PULL BEFORE PUSH to avoid "rejection" errors
+              git pull --rebase origin main
               git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
             fi
 
@@ -78,5 +83,6 @@ jobs:
 
           # Final Sync
           git add .
-          git commit -m "Cleanup final batch" || echo "No changes to commit"
+          git commit -m "Final batch completion" || echo "No changes"
+          git pull --rebase origin main
           git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
