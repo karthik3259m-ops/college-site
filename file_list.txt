@@ -1933,7 +1933,6 @@ https://alagappauniversity.ac.in/research/docs/D_Sc_%20D_Litt%20%20APPLICATION%2
 https://alagappauniversity.ac.in/research/docs/Data%20-%20%20Ph_D_%20Scholars%20-%20June%202012%20to%20March%202017.pdf
 https://alagappauniversity.ac.in/research/docs/Data%20Regarding%20Ph_D_%20Scholars%20-%2030_09_2017.pdf
 https://www.alagappauniversity.ac.in/research/docs/downloads/rm/Biological%20Science%20R.M.pdf
-https://www.alagappauniversity.ac.in/research/docs/downloads/rm/Chemical%20Scieence%20R.M.pdf
 https://www.alagappauniversity.ac.in/research/docs/downloads/rm/computer%20science-Research%20Methodology.pdf
 https://www.alagappauniversity.ac.in/research/docs/downloads/rm/Education-Research%20Methodology.pdf
 https://www.alagappauniversity.ac.in/research/docs/downloads/rm/English-Methodology.pdf
@@ -2018,6 +2017,7 @@ https://alagappauniversity.ac.in/research/docs/Ph.D.Regulations%20-%20updated-%2
 https://www.alagappauniversity.ac.in/research/docs/Ph.D.Regulations-July-2025.pdf
 https://www.alagappauniversity.ac.in/research/docs/Ph.D.Scholars%20Jan2025-March2025.pdf
 https://www.alagappauniversity.ac.in/research/docs/Ph.D.Scholars-2017-2019.pdf
+https://www.alagappauniversity.ac.in/research/docs/Ph.D.Scholars-2020-2025.pdf
 https://www.alagappauniversity.ac.in/research/docs/Ph.D.Thesis_Submission_form-June%202025.pdf
 https://alagappauniversity.ac.in/research/docs/Ph_D_%20Re-registration%20form.pdf
 https://alagappauniversity.ac.in/research/docs/Physical%20Education.pdf
