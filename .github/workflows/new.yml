@@ -1,4 +1,4 @@
-name: new
+name: Wayback Exfiltrate to Repo
 on:
   workflow_dispatch:
   schedule:
