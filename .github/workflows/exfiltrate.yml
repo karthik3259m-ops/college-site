@@ -18,13 +18,13 @@ jobs:
 
       - name: Setup Environment
         run: |
-          sudo apt-get install -y curl grep
-          # Ensure directories exist so the script doesn't crash on write
-          mkdir -p oversized_files
-          touch oversized_files/skipped_links.txt
           git config --global user.name "Exfiltrator-Bot"
           git config --global user.email "bot@ops.local"
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          # Ensure essential folders exist
+          mkdir -p oversized_files
+          mkdir -p alagappauniversity.ac.in
+          touch oversized_files/skipped_links.txt
 
       - name: Get Archive File List
         run: |
@@ -37,36 +37,41 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.MY_GITHUB_PAT }} 
         run: |
+          # Variable Setup
+          USER_NAME="karthik3259m-ops"
+          REPO_NAME="college-site"
+          REMOTE_URL="https://x-access-token:${GH_TOKEN}@github.com/${USER_NAME}/${REPO_NAME}.git"
+          
           count=0
           batch_size=50
+          set +e 
 
           while read -r original_url; do
-            # Construct Wayback URL
+            # Format the Wayback direct download link
             wayback_url="https://web.archive.org/web/20260000000000if_/$original_url"
             
-            # Clean path and handle spaces/special chars
+            # Clean path and handle spaces
             clean_path=$(echo "$original_url" | sed 's|https\?://||g' | sed 's/%20/ /g')
             dir_path="alagappauniversity.ac.in/$(dirname "$clean_path")"
             file_name=$(basename "$clean_path")
             
-            # 1. Skip if already exists
+            # 1. Skip if already exists locally
             if [ -f "$dir_path/$file_name" ]; then continue; fi
 
-            # 2. Download to temp
             mkdir -p "$dir_path"
-            curl -L --retry 3 -s -o "temp_file" "$wayback_url"
+            curl -L --retry 2 --max-time 60 -s -o "temp_file" "$wayback_url"
 
             if [ -f "temp_file" ]; then
               filesize=$(stat -c%s "temp_file")
               
-              # Size check (90MB)
+              # Size Guard (90MB)
               if [ $filesize -gt 94371840 ]; then
-                echo "$original_url" >> oversized_files/skipped_links.txt
+                echo "$original_url | $filesize" >> oversized_files/skipped_links.txt
                 rm temp_file
                 continue
               fi
 
-              # Small file check
+              # Minimum size check to avoid 404/empty files
               if [ $filesize -lt 100 ]; then rm temp_file; continue; fi
 
               mv temp_file "$dir_path/$file_name"
@@ -74,26 +79,24 @@ jobs:
               echo "Downloaded ($count): $file_name"
             fi
 
-            # 3. Batch Push logic
-            if [ $((count % batch_size)) -eq 0 ] && [ $count -ne 0 ]; then
-              echo "Reached $count files. Attempting sync..."
+            # 2. Batch Sync Logic
+            if [ $count -ge $batch_size ]; then
+              echo "Batch full. Syncing to $REPO_NAME..."
               git add .
-              # Only commit if there are actually staged changes
               if ! git diff --cached --quiet; then
                 git commit -m "Exfiltrated batch: $count files"
-                git pull --rebase origin main
-                git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
-                # Reset counter after successful push to keep batches clean
-                count=0 
+                git pull --rebase $REMOTE_URL main
+                git push $REMOTE_URL HEAD:main
+                count=0 # Reset counter after successful push
               fi
             fi
 
           done < file_list.txt
 
-          # Final Sync for any leftovers
+          # 3. Final cleanup for remaining files
           git add .
           if ! git diff --cached --quiet; then
-            git commit -m "Final batch completion"
-            git pull --rebase origin main
-            git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+            git commit -m "Final sync for this run"
+            git pull --rebase $REMOTE_URL main
+            git push $REMOTE_URL HEAD:main
           fi
