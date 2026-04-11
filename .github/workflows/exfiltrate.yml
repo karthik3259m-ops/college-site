@@ -1,87 +1,82 @@
 name: Wayback Exfiltrate to Repo
 on:
-  workflow_dispatch: # Manual trigger
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
 
 jobs:
   download-and-upload:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # Essential for git pushes
 
       - name: Setup Environment
         run: |
           sudo apt-get install -y curl grep
-          mkdir -p alagappauniversity.ac.in
           mkdir -p oversized_files
-          touch oversized_files/skipped_links.txt
+          touch oversized_files/.gitkeep # Ensures directory exists for git
 
       - name: Get Archive File List
         run: |
-          # Fetching all PDF, RAR, ZIP, and SQL links from CDX
-          curl -s "https://web.archive.org/cdx/search/cdx?url=alagappauniversity.ac.in/*&output=text&fl=original&collapse=urlkey" | grep -E "\.pdf|\.rar|\.zip|\.sql" > file_list.txt
+          DOMAIN="alagappauniversity.ac.in"
+          curl -s "https://web.archive.org/cdx/search/cdx?url=$DOMAIN/*&output=text&fl=original&collapse=urlkey" | \
+          grep -E "\.pdf|\.docx|\.xlsx|\.zip|\.rar|\.sql|\.bak|\.7z|\.doc|\.xls|\.ppt" > file_list.txt
           echo "Found $(wc -l < file_list.txt) files to process."
 
       - name: Process and Upload in Batches
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.MY_GITHUB_PAT }} # Using the Secret here
         run: |
           git config --global user.name "Exfiltrator-Bot"
           git config --global user.email "bot@ops.local"
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
           
           count=0
           batch_size=50
 
           while read -r original_url; do
-            # 1. Construct Wayback URL (direct download link)
             wayback_url="https://web.archive.org/web/20260000000000if_/$original_url"
-            
-            # 2. Determine local path
             clean_path=$(echo "$original_url" | sed 's|https\?://||g')
             dir_path="alagappauniversity.ac.in/$(dirname "$clean_path")"
             file_name=$(basename "$original_url")
             
-            # 3. Download to a temp location first to check size
+            if [ -f "$dir_path/$file_name" ]; then continue; fi
+
+            mkdir -p "$dir_path"
             curl -L -s -o "temp_file" "$wayback_url"
-            
-            # Check if file exists and get size
+
             if [ -f "temp_file" ]; then
               filesize=$(stat -c%s "temp_file")
               
-              # If larger than 90MB (94371840 bytes)
               if [ $filesize -gt 94371840 ]; then
-                echo "[SIZE GUARD] $file_name is $(($filesize/1048576))MB. Skipping..."
-                echo "URL: $original_url | Size: $(($filesize/1048576))MB" >> oversized_files/skipped_links.txt
+                echo "URL: $original_url" >> oversized_files/skipped_links.txt
                 rm temp_file
                 continue
               fi
 
-              # If file is empty or 0 bytes, skip it
-              if [ $filesize -lt 100 ]; then
-                rm temp_file
-                continue
-              fi
+              if [ $filesize -lt 100 ]; then rm temp_file; continue; fi
 
-              # Move to final organized directory
-              mkdir -p "$dir_path"
               mv temp_file "$dir_path/$file_name"
               ((count++))
+              echo "Downloaded ($count): $file_name"
             fi
 
-            # 4. Batch Push
+            # Push every 50 files
             if [ $((count % batch_size)) -eq 0 ] && [ $count -ne 0 ]; then
-              echo "Batch limit reached. Pushing $count files so far..."
               git add .
-              git commit -m "Exfiltrated batch: $count files processed"
-              git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+              git commit -m "Exfiltrated batch: $count files"
+              git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
             fi
 
           done < file_list.txt
 
-          # Final Push for remaining files and the skipped_links.txt
+          # Final Sync
           git add .
-          git commit -m "Final batch exfiltration and skipped list update" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+          git commit -m "Cleanup final batch" || echo "No changes to commit"
+          git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
