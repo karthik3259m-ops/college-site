@@ -1,0 +1,1887 @@
+<!-- <style rel="stylesheet" type="text/css">
+  .modal.fade {
+  z-index: 10000000 !important;
+}
+</style>
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+<div class="container">
+
+    <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog modal-lg">
+    
+ 
+      <div class="modal-content">
+        <div class="modal-header" style="background-color: white;padding: 5px"><h4 style="color: #ff8100;">அறிவிப்பு/Notification</h4>
+
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          
+        </div>
+        <div class="modal-body" style="background-color: white;padding: 5px;"><h5 style="color: blue"> 
+          
+         <u>33 மற்றும் 34-வது பட்டமளிப்பு விழா / 33<sup>rd</sup> and 34<sup>th</sup> Convocation </u></h5>
+         <h6 style="color: #890013;"><a href="uploads/notifications/Convocation_Notification_Tamil.pdf">1.அறிவிப்பு - தமிழ் </a> </h6>
+         <h6 style="color: #890013;"> <a href="uploads/notifications/Convocation_Notification_English.pdf">2.Notification - English </a> </h6>
+         <h6 style="color: #890013;"> <a href="uploads/notifications/convocation_form.pdf">3.பட்டமளிப்பு விண்ணப்பப் படிவம் / Convocation Application Form </a> </h6>
+          
+        
+        </div>
+        <div class="modal-footer" style="background-color: white;padding: 5px">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+
+
+</div>  -->
+<!DOCTYPE html>
+<html class="wide wow-animation scrollTo desktop landscape rd-navbar-static-linked" lang="en">
+
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=2N_sDSC0" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/REGISTRATION%20FORM.pdf","20220308170839","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1646759319");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!--<script async src="https://www.googletagmanager.com/gtag/js?id=UA-178236217-1"></script>-->
+<!--<script>-->
+<!--  window.dataLayer = window.dataLayer || [];-->
+<!--  function gtag(){dataLayer.push(arguments);}-->
+<!--  gtag('js', new Date());-->
+
+<!--  gtag('config', 'UA-178236217-1');-->
+<!--</script>-->
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Site Title-->
+    <title>Alagappa University - Karaikudi, India</title>
+    
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="keywords" content="intense web design multipurpose template">
+    <meta name="date" content="Dec 26">
+    <link rel="icon" href="/web/20220308170839im_/https://alagappauniversity.ac.in/images/favicon.png" type="image/x-icon">
+    <!-- Stylesheets-->
+    <link rel="stylesheet" type="text/css" href="/web/20220308170839cs_/https://alagappauniversity.ac.in/css/css.css">
+    <link rel="stylesheet" href="/web/20220308170839cs_/https://alagappauniversity.ac.in/css/bootstrap.css">
+    <link rel="stylesheet" href="/web/20220308170839cs_/https://alagappauniversity.ac.in/css/fonts.css">
+    <link rel="stylesheet" href="/web/20220308170839cs_/https://alagappauniversity.ac.in/css/style.css">
+    <link rel="stylesheet" type="text/css" href="/web/20220308170839cs_/https://alagappauniversity.ac.in/css/misstyle.css">
+    <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}
+    .datafilter{cursor: pointer}
+  cloudflare-app[app-id="a-better-browser"] {
+  display: block;
+  background: #45484d;
+  color: #fff;
+  line-height: 1.45;
+  position: fixed;
+  z-index: 90000000;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: .5em 1em;
+  text-align: center;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+cloudflare-app[app-id="a-better-browser"][data-visibility="hidden"] {
+  display: none;
+}
+
+cloudflare-app[app-id="a-better-browser"] cloudflare-app-message {
+  display: block;
+}
+
+cloudflare-app[app-id="a-better-browser"] a {
+  text-decoration: underline;
+  color: #ebebf4;
+}
+
+cloudflare-app[app-id="a-better-browser"] a:hover,
+cloudflare-app[app-id="a-better-browser"] a:active {
+  color: #dbdbeb;
+}
+
+cloudflare-app[app-id="a-better-browser"] cloudflare-app-close {
+  display: block;
+  cursor: pointer;
+  font-size: 1.5em;
+  position: absolute;
+  right: .4em;
+  top: .35em;
+  height: 1em;
+  width: 1em;
+  line-height: 1;
+}
+
+cloudflare-app[app-id="a-better-browser"] cloudflare-app-close:active {
+  -webkit-transform: translateY(1px);
+          transform: translateY(1px);
+}
+
+cloudflare-app[app-id="a-better-browser"] cloudflare-app-close:hover {
+  opacity: .9em;
+  color: #fff;
+}
+</style>
+   </head>
+  <body class="">
+    <div class="page text-center animated" style="animation-duration: 500ms;">
+      <!-- Page Header-->
+      <header class="page-head header-panel-absolute">
+        <!-- RD Navbar Transparent-->
+        <div class="rd-navbar-wrap" style="height: 283px;">
+          <nav class="rd-navbar rd-navbar-default rd-navbar-static" data-md-device-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-stick-up-offset="210" data-xl-stick-up-offset="85" data-lg-auto-height="true" data-auto-height="false" data-md-layout="rd-navbar-static" data-lg-layout="rd-navbar-static" data-lg-stick-up="true">
+            <div class="rd-navbar-inner">
+              <!-- RD Navbar Panel-->
+              <div class="rd-navbar-panel">
+                <!-- RD Navbar Toggle-->
+                <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar, .rd-navbar-nav-wrap"><span></span></button>
+                <h4 class="panel-title d-lg-none"><img src="/web/20220308170839im_/https://alagappauniversity.ac.in/images/mobile_banner.png" style="width: 100%;height: 46px"></h4>
+                <!-- RD Navbar Right Side Toggle-->
+                </div>
+                <div class="rd-navbar-top-panel">
+                  <div class="rd-navbar-top-panel-left-part">
+                    <ul class="list-unstyled">
+                      <li>
+                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                          <div class="unit-left"></div>
+                          <div class="unit-body"><p class="awesome" title="Motto">செயலிற் செம்மை</p>
+                          </div>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                          <div class="unit-left"></div>
+                          <div class="unit-body"><a href="#section">Skip to content</a></div>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                          <div class="unit-left"></div>
+                          <div class="unit-body"><a href="/web/20220308170839/https://alagappauniversity.ac.in/screenReader.php">Screen Reader Access</a></div>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                          <div class="unit-left"></div>
+                          <div class="unit-body"><a class="up" title="Large Text"><button class="btn">&nbsp;A+&nbsp;</button></a></div>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                          <div class="unit-left"></div>
+                          <div class="unit-body"><a class="original" title="Normal Text"><button class="btn">&nbsp;A&nbsp;</button></div>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                          <div class="unit-left"></div>
+                          <div class="unit-body"><a class="down" title="Small Text"><button class="btn">&nbsp;A-&nbsp;</button></a></div>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                 
+
+                  <div class="rd-navbar-top-panel-right-part">
+                     <ul class="list-unstyled">
+                      <li>
+                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                       
+                          <div class="unit-left"></div>
+                          <!--<div class="unit-body"><button class="btn"><span class="fa fa-phone"></span></button></div>-->
+                   
+                           <div class="unit-right"><a href="https://web.archive.org/web/20220308170839/https://mail.google.com/a/alagappauniversity.ac.in" target="_blank"><img src="/web/20220308170839im_/https://alagappauniversity.ac.in/images/mail.png" title="Alagappa University Institutional E mail" width="80px" height="50px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+                           <div class="unit-right"><a href="https://web.archive.org/web/20220308170839/https://i-radiolive.com/podcast/channel/alagappa" target="_blank"><img src="/web/20220308170839im_/https://alagappauniversity.ac.in/images/radio.png" title="Alagappa Community Radio 90.8 MHz" width="80px" height="50px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+                        
+                          <div class="unit-body"><p class="awesome" title="Motto">Excellence in Action</p>
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="rd-navbar-menu-wrap clearfix">
+                <!--Navbar Brand-->
+                <div class="rd-navbar-brand"><a class="d-block" href="/web/20220308170839/https://alagappauniversity.ac.in/index.php">
+                    <div class="unit align-items-sm-center unit-xl flex-column flex-xxl-row unit-spacing-custom">
+                      <div class="unit-left" style="width: 100%; background-image:url('/web/20220308170839im_/https://alagappauniversity.ac.in/images/banner.png');">
+                        <img src="/web/20220308170839im_/https://alagappauniversity.ac.in/images/alu_logo.png" alt="" style="float: left;">
+                      
+<div class="d-inline-block" style="float: left;">
+<span style="font-size: 30px; font-family:myFont; font-weight: bold;color: #0d2d62;line-height: 60px;">அழகப்பா பல்கலைக்கழகம்</span>  <br>
+<span style="font-size: 40px; font-family: myFont1; font-weight: bold;color: #0d2d62;line-height: 20px;">ALAGAPPA UNIVERSITY</span><br>
+<span style="font-size: 15px;font-family: myFont2;color: #0d2d62;">(A State University Accredited with A+ Grade by NAAC (CGPA : 3.64) in the Third Cycle <br> and Graded as Category - I University by MHRD - UGC)</span><br>
+<span style="font-size: 15px;font-family: myFont2;color: #0d2d62;">Karaikudi - 630 003, Tamil Nadu, India</span>
+</div>
+
+
+                      <img src="/web/20220308170839im_/https://alagappauniversity.ac.in/images/founder_logo.png" alt="" style="float: left;">
+
+<style type="text/css">
+  .rd-navbar-default.rd-navbar-static .rd-navbar-brand img{
+        width: 150px;
+    margin: 25px;
+    height: 125px;
+   transition: .25s all ease;
+  }
+#wierd_box{
+    position: absolute;
+/*    width: 303px;
+    top: 55px;
+*/    right: 14px;
+/*    background: #0d2d62;
+*/    border: none;
+    color: white;
+}
+#wierd_box .btn.btn-primary.extra{
+font-size: 10px;
+
+}
+
+#wierd_box table{
+    border:0;
+}
+#wierd_box tr{
+    background: transparent;
+/*    border-bottom: 1px dotted #374e75;
+*/}
+#wierd_box tr td, #wierd_box tr th{
+    background: transparent;
+    border:0 !important;
+    padding:1px 0 !important;
+    text-align: left;
+}
+#wierd_box tr td a, #wierd_box tr th a{
+    background: transparent;
+/*    font-family:'Roboto',sans-serif;
+*/    letter-spacing: 0.2px;
+    font-size: 10px;
+    font-weight:normal;
+    display: block;
+    /*padding:4px 10px !important;*/
+    line-height: 10px !important;
+}
+
+#wierd_box tr th {
+    background: transparent;
+/*    font-family:'Roboto',slab;
+*/    letter-spacing: 0.3px;
+    font-size: 12px;
+    font-weight:bold;
+    text-align: center;
+    display: block;
+    padding:10px 15px !important;
+    line-height: 10px !important;
+
+}
+#wierd_box tr td a:hover{
+    background: #fff;
+    color: #FFFFFF;
+    color:#000 !important;
+}
+#wierd_box tr td a i{
+    margin-right: 6px;
+    font-size: 15px;
+}
+#wierd_box tr th a{
+    font-weight: bold;
+    font-size: 16px;
+/*    font-family: 'myFont1';
+*/    letter-spacing: 0.6px;
+    text-align: center;
+    
+    cursor: default;
+}
+#wierd_box .dropdown-item{
+  padding: .5rem!important;
+    margin-left: 0;
+    font-size: 12px;
+  }
+  #wierd_box .dropdown-item:hover{
+color:#fff!important;
+  background-color: #4285f4 !important;
+    border-radius: .125rem;
+    -webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18), 0 4px 15px 0 rgba(0,0,0,0.15);
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18), 0 4px 15px 0 rgba(0,0,0,0.15);
+}
+#wierd_box .dropdown-menu.show{
+  padding:0.5rem;
+}
+
+@media only screen and (max-width: 1200px){
+    #wierd_box{
+        position:static;
+        width: 100%;
+        margin-top:30px !important;
+    }
+}
+@media only screen and (max-width : 1920px){
+
+ .div-only-mobile-show{
+  display: none;
+  }
+   .desk{
+  display: block;
+  }
+}
+@media only screen and (max-width : 849px){
+ .desk{
+  display: none;
+  }
+ .div-only-mobile-show{
+  display: block;
+  }
+}
+
+ 
+
+</style>
+<div id="wierd_box">
+<table>
+<tbody><tr style="background-color: #890013;">
+<th class="blinktext">What's New</th>
+</tr>
+<tr>
+<td>
+<div class="dropleft">
+
+   <div class="dropdown-menu">
+    <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://admissions.alagappauniversity.ac.in/DepartmentsAdmission/mphil.php">Online Application for <br>M.Phil Programmes-2021-22</a>
+     
+    <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://admissions.alagappauniversity.ac.in/DepartmentsAdmission/">University Departments admission 2021 <br>( Regular Programmes)</a> 
+
+   
+    
+    
+    <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/http://mis.alagappauniversity.ac.in/dde-online/login.php">Directorate of Distance Education</a>
+    
+    <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/http://mis.alagappauniversity.ac.in/dde-online/BEd/BEd-login.php">B.Ed - DDE</a>
+   <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://www.auedu.in/">Online Programme</a>
+  </div> 
+  <button type="button" class="btn btn-primary extra dropdown-toggle w-100 text-left" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Alagappa University - Online Admission 2021-22</button>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="dropleft">
+
+  <div class="dropdown-menu">
+    <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://online.alagappauniversity.ac.in/">University Regular Departments</a>
+    
+    
+    <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/http://dde-online.alagappauniversity.ac.in/">Directorate of Distance Education</a>
+    
+   <!--  <a class="dropdown-item" href="https://online-skill.alagappauniversity.ac.in">Skill Development Programmes</a>  -->
+  </div>
+  <button type="button" class="btn btn-primary extra dropdown-toggle w-100 text-left" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Alagappa University - Online Platform (ALUOP)</button>
+</div>
+</td>
+</tr>  
+<tr>
+<td>
+<div class="dropleft">
+
+  <div class="dropdown-menu">
+    <!-- <a class="dropdown-item" href="https://mis.alagappauniversity.ac.in/regular"><strong>Exam Fee Payment University Department Examinations, November 2021</strong></a>
+    <a class="dropdown-item" href="https://mis.alagappauniversity.ac.in/collaborative"><strong>Exam Fee Fee Payment for Collaborative Programmes Examinations, November 2021 </strong></a>
+    <a class="dropdown-item" href="https://mis.alagappauniversity.ac.in/distance"><strong>Exam Fee Fee Payment for Distance Education Examinations, December 2021 </strong></a> -->
+    <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://admissions.alagappauniversity.ac.in/ALUStudents/"><strong> Semester Fee Payment University Departments </strong></a>
+    <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/modules_old/examinations/examResults.php"><strong>Examination Results</strong></a>
+    
+    
+      <!-- <a class="dropdown-item" href="http://mis.alagappauniversity.ac.in/regular/"><strong>Examination Hall Ticket <br> University Departments</strong></a>  --> 
+
+  </div> <button type="button" class="btn btn-primary extra dropdown-toggle w-100 text-left" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Exam Fee / Sem Fee Payments  / Results <!-- / Re_Evaluation Fee Payment --></button>
+</div>
+</td>
+</tr>
+<!-- <tr>
+<td>
+<div class="dropleft">
+
+  <div class="dropdown-menu">
+    <a class="dropdown-item" href="http://mis.alagappauniversity.ac.in/coe/Dde_App_Certificate/index.php"><strong>Distance Education Examiner's <br> Appointment Letter / Attendance Certificate</strong></a>
+     <a class="dropdown-item" href="http://mis.alagappauniversity.ac.in/coe/Aff_Att_Certificate/index.php"><strong>Affiliated Colleges Examiner's <br>  Attendance Certificate</strong></a>
+   
+  </div> <button type="button" class="btn btn-primary extra dropdown-toggle w-100 text-left" data-toggle="dropdown" aria-haspopup="true"
+    aria-expanded="false">Online Valuation Examiner's <br>Appointment Letter / Attendance Certificate</button>
+</div>
+</td>
+</tr> -->
+
+
+ </tr> 
+<td>
+<div class="dropleft">
+   <div class="dropdown-menu dropdown-primary">
+   <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://online-exams.alagappauniversity.ac.in/AlU_ExaM_AfF_CoL/index.php"><strong>Affiliated Colleges Online Examinations – November 2021 </strong></a> 
+ 
+
+     <!-- <a class="dropdown-item" href="https://online-exam.alagappauniversity.ac.in/AlU_ExaM_ReGuLaR/index.php"><strong>University Departments Online Examinations – November 2021</strong></a>   -->
+
+   <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://online-exams.alagappauniversity.ac.in/AlU_ExaM_CoL/index.php"><strong>Collaborative Programme Online Examinations – November 2021</strong></a>  
+
+      <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://online-exams.alagappauniversity.ac.in/AlU_ExaM_DdE/index.php"><strong>Distance Education  Online Examinations – December 2021</strong></a> 
+         <!-- <a class="dropdown-item" href="https://online-exam.alagappauniversity.ac.in/AlU_ExaM_ReS/index.php"><strong>Ph.D., Coursework  Online Examinations – February 2022</strong></a>  -->
+<!-- <a class="dropdown-item" href="https://mis.alagappauniversity.ac.in/distance/index.php"><strong>Distance Education <br>Online Examinations – December 2021 <br> Hall Ticket</strong></a>
+
+<a class="dropdown-item" href="https://mis.alagappauniversity.ac.in/collaborative/index.php"><strong>Collaborative Programmes <br>Online Examinations – November 2021 <br> Hall Ticket</strong></a> -->
+    
+   <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/affiliated_instructions/time_table.php">Affiliated Colleges <br>Guidelines &amp; Time Table and Other Details for <br>Online Examinations – November 2021 </a>
+ 
+
+    <!-- <a class="dropdown-item" href="https://alagappauniversity.ac.in/regular_instructions/time_table.php">University Departments <br>Guidelines & Time Table and Other Details for <br> Online Examinations – November 2021</a> -->  
+ <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/colla_instructions/time_table.php">Collaborative Programmes <br>Guidelines &amp; Time Table  <br> Online Examinations – November 2021</a> 
+ 
+<a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/dde_instructions/time_table.php">Distance Education <br>Guidelines &amp; Time Table <br>Online Examinations – December 2021 </a>
+ 
+ </div>
+    
+
+  <button type="button" class="btn btn-primary extra dropdown-toggle w-100 text-left" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Nov./Dec. - 2021, Online Examinations</button>
+</div>
+</td>
+</tr> 
+<!--  <tr>
+<td>
+<div class="dropleft">
+       <a href="http://mis.alagappauniversity.ac.in/ALU-Phd/modules/entrance/studentLogin.php"><button type="button" class="btn btn-primary extra dropdown-toggle w-100 text-left"  aria-haspopup="true" aria-expanded="false" >Pre-Registration Qualifying Entrance Examination for Ph.D. Programme Result</button></a>
+</div>
+</td>
+</tr> -->  
+<!-- <tr>
+<td>
+<div class="dropleft">
+
+  <a href="http://162.241.27.72/modules/examinations/examResults.php"><button type="button" class="btn btn-primary extra dropdown-toggle w-100 text-left"  aria-haspopup="true" aria-expanded="false" >Examination Results - November/December 2020</button></a>
+</div>
+</td>
+</tr>  -->
+<!--  <tr>
+<td>
+<div class="dropleft">
+    <a href="http://mis.alagappauniversity.ac.in/ALU-Phd/modules/entrance/studentLogin.php"><button type="button" class="btn btn-primary extra dropdown-toggle w-100 text-left"  aria-haspopup="true"
+    aria-expanded="false">Ph.D. - Entrance Exam Results, Sep. 2021 </button></a>
+</div>
+</td>
+</tr> -->
+
+</tbody></table>
+</div>
+
+
+
+
+                      </div>
+                      </div>
+                    </div><div class="desk" style="margin-top: 25px">
+                      <a href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/vc_notification.php"><button class="btn btn-danger" style="min-width: 1000px!important"><h6 style="color: white"><marquee>Search Committee invites applications for the position of Vice-Chancellor</marquee></h6></button></a>
+                    </div> </a>
+                <div class="rd-navbar-nav-wrap">
+                  <div class="rd-navbar-mobile-scroll">
+                    <div class="rd-navbar-mobile-header-wrap">
+                      <!--Navbar Brand Mobile-->
+                      <div class="rd-navbar-mobile-brand"><a href="/web/20220308170839/https://alagappauniversity.ac.in/index.php"><img width="136" height="138" src="/web/20220308170839im_/https://alagappauniversity.ac.in/images/alu_logo.png" alt=""></a>
+<div id="wierd_box">
+<table>
+<tbody><tr style="background-color: #890013;">
+<th class="blinktext">What's New</th>
+</tr>
+<tr>
+<td>
+<div class="dropleft">
+
+   <div class="dropdown-menu">
+    <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://admissions.alagappauniversity.ac.in/DepartmentsAdmission/mphil.php">Online Application for <br>M.Phil Programmes-2021-22</a>
+     
+    <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://admissions.alagappauniversity.ac.in/DepartmentsAdmission/">University Departments admission 2021 <br>( Regular Programmes)</a> 
+
+   
+    
+    
+    <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/http://mis.alagappauniversity.ac.in/dde-online/login.php">Directorate of Distance Education</a>
+    
+    <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/http://mis.alagappauniversity.ac.in/dde-online/BEd/BEd-login.php">B.Ed - DDE</a>
+   <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://www.auedu.in/">Online Programme</a>
+  </div> 
+  <button type="button" class="btn btn-primary extra dropdown-toggle w-100 text-left" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Alagappa University - Online Admission 2021-22</button>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="dropleft">
+
+  <div class="dropdown-menu">
+    <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://online.alagappauniversity.ac.in/">University Regular Departments</a>
+    
+    
+    <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/http://dde-online.alagappauniversity.ac.in/">Directorate of Distance Education</a>
+    
+   <!--  <a class="dropdown-item" href="https://online-skill.alagappauniversity.ac.in">Skill Development Programmes</a>  -->
+  </div>
+  <button type="button" class="btn btn-primary extra dropdown-toggle w-100 text-left" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Alagappa University - Online Platform (ALUOP)</button>
+</div>
+</td>
+</tr>  
+<tr>
+<td>
+<div class="dropleft">
+
+  <div class="dropdown-menu">
+    <!-- <a class="dropdown-item" href="https://mis.alagappauniversity.ac.in/regular"><strong>Exam Fee Payment University Department Examinations, November 2021</strong></a>
+    <a class="dropdown-item" href="https://mis.alagappauniversity.ac.in/collaborative"><strong>Exam Fee Fee Payment for Collaborative Programmes Examinations, November 2021 </strong></a>
+    <a class="dropdown-item" href="https://mis.alagappauniversity.ac.in/distance"><strong>Exam Fee Fee Payment for Distance Education Examinations, December 2021 </strong></a> -->
+    <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://admissions.alagappauniversity.ac.in/ALUStudents/"><strong> Semester Fee Payment University Departments </strong></a>
+    <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/modules_old/examinations/examResults.php"><strong>Examination Results</strong></a>
+    
+    
+      <!-- <a class="dropdown-item" href="http://mis.alagappauniversity.ac.in/regular/"><strong>Examination Hall Ticket <br> University Departments</strong></a>  --> 
+
+  </div> <button type="button" class="btn btn-primary extra dropdown-toggle w-100 text-left" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Exam Fee / Sem Fee Payments  / Results <!-- / Re_Evaluation Fee Payment --></button>
+</div>
+</td>
+</tr>
+<!-- <tr>
+<td>
+<div class="dropleft">
+
+  <div class="dropdown-menu">
+    <a class="dropdown-item" href="http://mis.alagappauniversity.ac.in/coe/Dde_App_Certificate/index.php"><strong>Distance Education Examiner's <br> Appointment Letter / Attendance Certificate</strong></a>
+     <a class="dropdown-item" href="http://mis.alagappauniversity.ac.in/coe/Aff_Att_Certificate/index.php"><strong>Affiliated Colleges Examiner's <br>  Attendance Certificate</strong></a>
+   
+  </div> <button type="button" class="btn btn-primary extra dropdown-toggle w-100 text-left" data-toggle="dropdown" aria-haspopup="true"
+    aria-expanded="false">Online Valuation Examiner's <br>Appointment Letter / Attendance Certificate</button>
+</div>
+</td>
+</tr> -->
+
+
+ </tr> 
+<td>
+<div class="dropleft">
+   <div class="dropdown-menu dropdown-primary">
+   <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://online-exams.alagappauniversity.ac.in/AlU_ExaM_AfF_CoL/index.php"><strong>Affiliated Colleges Online Examinations – November 2021 </strong></a> 
+ 
+
+     <!-- <a class="dropdown-item" href="https://online-exam.alagappauniversity.ac.in/AlU_ExaM_ReGuLaR/index.php"><strong>University Departments Online Examinations – November 2021</strong></a>   -->
+
+   <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://online-exams.alagappauniversity.ac.in/AlU_ExaM_CoL/index.php"><strong>Collaborative Programme Online Examinations – November 2021</strong></a>  
+
+      <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://online-exams.alagappauniversity.ac.in/AlU_ExaM_DdE/index.php"><strong>Distance Education  Online Examinations – December 2021</strong></a> 
+         <!-- <a class="dropdown-item" href="https://online-exam.alagappauniversity.ac.in/AlU_ExaM_ReS/index.php"><strong>Ph.D., Coursework  Online Examinations – February 2022</strong></a>  -->
+<!-- <a class="dropdown-item" href="https://mis.alagappauniversity.ac.in/distance/index.php"><strong>Distance Education <br>Online Examinations – December 2021 <br> Hall Ticket</strong></a>
+
+<a class="dropdown-item" href="https://mis.alagappauniversity.ac.in/collaborative/index.php"><strong>Collaborative Programmes <br>Online Examinations – November 2021 <br> Hall Ticket</strong></a> -->
+    
+   <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/affiliated_instructions/time_table.php">Affiliated Colleges <br>Guidelines &amp; Time Table and Other Details for <br>Online Examinations – November 2021 </a>
+ 
+
+    <!-- <a class="dropdown-item" href="https://alagappauniversity.ac.in/regular_instructions/time_table.php">University Departments <br>Guidelines & Time Table and Other Details for <br> Online Examinations – November 2021</a> -->  
+ <a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/colla_instructions/time_table.php">Collaborative Programmes <br>Guidelines &amp; Time Table  <br> Online Examinations – November 2021</a> 
+ 
+<a class="dropdown-item" href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/dde_instructions/time_table.php">Distance Education <br>Guidelines &amp; Time Table <br>Online Examinations – December 2021 </a>
+ 
+ </div>
+    
+
+  <button type="button" class="btn btn-primary extra dropdown-toggle w-100 text-left" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Nov./Dec. - 2021, Online Examinations</button>
+</div>
+</td>
+</tr> 
+<!--  <tr>
+<td>
+<div class="dropleft">
+       <a href="http://mis.alagappauniversity.ac.in/ALU-Phd/modules/entrance/studentLogin.php"><button type="button" class="btn btn-primary extra dropdown-toggle w-100 text-left"  aria-haspopup="true" aria-expanded="false" >Pre-Registration Qualifying Entrance Examination for Ph.D. Programme Result</button></a>
+</div>
+</td>
+</tr> -->  
+<!-- <tr>
+<td>
+<div class="dropleft">
+
+  <a href="http://162.241.27.72/modules/examinations/examResults.php"><button type="button" class="btn btn-primary extra dropdown-toggle w-100 text-left"  aria-haspopup="true" aria-expanded="false" >Examination Results - November/December 2020</button></a>
+</div>
+</td>
+</tr>  -->
+<!--  <tr>
+<td>
+<div class="dropleft">
+    <a href="http://mis.alagappauniversity.ac.in/ALU-Phd/modules/entrance/studentLogin.php"><button type="button" class="btn btn-primary extra dropdown-toggle w-100 text-left"  aria-haspopup="true"
+    aria-expanded="false">Ph.D. - Entrance Exam Results, Sep. 2021 </button></a>
+</div>
+</td>
+</tr> -->
+
+</tbody></table>
+</div>
+                    </div></div>
+   
+                    <!-- RD Navbar Nav-->
+                    <ul class="rd-navbar-nav" id="section">
+                      <li class="rd-navbar--has-dropdown rd-navbar-submenu"><a href="#">The University</a>
+                        <ul class="rd-navbar-dropdown">
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/theUniversity/aboutFounder.php">About Founder</a></li>
+                                   <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/theUniversity/aboutUniversity.php">About the University</a></li>
+                                   <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/theUniversity/mottoVision.php">Motto, Vision, Mission &amp; Policy</a></li>
+                                   <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/theUniversity/credentials.php">Credentials</a></li>
+                                    <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/theUniversity/illustrious_Vice-Chancellors.php">Illustrious Vice-Chancellors</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/theUniversity/universityMap.php">University Map</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/theUniversity/glimpsesofUniversity.php">Glimpsess of University</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/">Campus Tour</a></li>
+                                
+                            </ul> 
+                         <span class="rd-navbar-submenu-toggle"></span></li>
+                      <li class="rd-navbar--has-dropdown rd-navbar-submenu"><a href="#">Authorities</a>
+                        <ul class="rd-navbar-dropdown">
+                          <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/authorities/chancellor.php">Chancellor</a></li>
+                          <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/authorities/proChancellor.php">Pro-Chancellor</a></li>
+                         <!--  <li><a href="#">Vice-Chancellor</a></li> -->
+                          <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/authorities/vc_committee.php">Vice-Chancellor</a></li>
+                          <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/authorities/syndicate.php">Syndicate</a></li>
+                          <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/authorities/senate.php">Senate</a></li>
+                           <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/authorities/finance.php">Finance Committee</a></li>
+                          <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/authorities/standingCommittee.php">Standing Committee on <br>Academic Affairs</a></li>
+                           <li><a href="#">Planning Board</a></li>
+                           <!-- <li><a href="/modules/authorities/planningBoard.php">Planning Board</a></li> -->
+                          <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/authorities/boardOfStudies.php">Board of Studies</a></li>
+                        
+                        </ul>
+                         <span class="rd-navbar-submenu-toggle"></span></li>
+                      <li class="rd-navbar--has-dropdown rd-navbar-submenu"><a href="#">Administration</a>
+                        <ul class="rd-navbar-dropdown">
+                          <!--  <li><a href="#">Vice-Chancellor</a></li> -->
+                          <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/authorities/vc_committee.php">Vice-Chancellor</a></li>
+                          <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/administration/registrar.php">Registrar</a></li>
+                          <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/administration/coe.php">Controller of Examinations</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/administration/fo.php">Finance Officer</a></li>
+                           
+                          <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/administration/so.php">Special Officer <br>(Planning &amp; Development)</a></li>
+                          <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/administration/admin_staffs.php">Administrative Officers <br>and Technical Officers</a></li>
+                         </ul>
+                      <span class="rd-navbar-submenu-toggle"></span></li>
+                      <li class="rd-navbar--has-megamenu rd-navbar-submenu"><a href="#">Academics</a>
+                        <div class="rd-navbar-megamenu">
+                          <div class="row section-relative">
+               <ul class="col-lg-3">
+                    <li>
+                        <h6>Faculty of Arts</h6><div class="text-subline"></div>
+                        <ul class="list-unstyled offset-lg-top-20">
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/dean-and-chairpersons.php">Dean and Chairpersons</a></li>                       
+                        </ul>
+                    </li>
+                    <li>
+                        <h4>School of Languages</h4>
+                        <ul class="list-unstyled offset-lg-top-20">
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-languages/Department-of-Tamil.php">Department of Tamil</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-languages/Centre-for-Tamil-Culture.php">Centre for Tamil Culture</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-languages/Department-of-English-and-Foreign-Language.php">Department of English and <br> Foreign Languages</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-languages/Department-of-Fine-Arts.php">Department of Fine Arts</a></li></ul>
+                    </li>
+                    <li>
+                        <h4>School of Social Sciences</h4>
+                        <ul class="list-unstyled offset-lg-top-20">
+                            <li>
+                                <a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/Department-of-Womens-Studies.php">Department of Women's Studies</a>
+                            </li>
+                            <li>
+                                <a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/Centre-for-Womens-Studies.php">Centre for Women's Studies</a>
+                            </li>
+                            <li>
+                                <a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/Department-of-Social-Work.php">Department of Social Work</a>
+                            </li>
+                            <li>
+                                <a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/Department-of-Economics-and-Rural-Development.php">Department of Economics and <br> Rural Development</a>
+                            </li>
+                            <li>
+                                <a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/Department-of-History.php">Department of History</a>
+                            </li>
+                            <li>
+                                <a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/Department-of-Library-and-Information-Science.php">Department of Library and <br>Information Science</a>
+                            </li>
+                            <li>
+                                <a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/Department-of-Politics-Public-Administration.php">Department of Politics &amp;<br> Public Administration</a>
+                            </li>
+                            <li>
+                                <a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/Department-of-Journalism-and-Mass-Communication.php">Department of Journalism and<br> Mass Communication</a>
+                            </li>
+                            <li>
+                                <a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/Department-of-Theatre-and-Film-Studies.php">Department of Theatre and <br>Film Studies</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="col-lg-3">
+                    <li>
+                        <h6>Faculty of Science</h6><div class="text-subline"></div>
+                        <ul class="list-unstyled offset-lg-top-20">
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/dean-and-chairpersons.php">Dean and Chairpersons</a></li>                       
+                        </ul>
+                    </li>
+                    <li>
+                        <h4>School of Mathematical Sciences</h4>
+                        <ul class="list-unstyled offset-lg-top-20">
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Mathematical-Sciences/Department-of-Mathematics.php">Department of Mathematics</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Mathematical-Sciences/Ramanujan-Centre-for-Higher-Mathematics.php">Ramanujan Centre for <br>Higher Mathematics</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h4>School of Physical Sciences</h4>
+                        <ul class="list-unstyled offset-lg-top-20">
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Physical-Sciences/Department-of-Physics.php">Department of Physics</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Physical-Sciences/Department-of-Bioelectronics-and-Biosensors.php">Department of Bioelectronics<br> and Biosensors</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h4>School of Chemical Sciences</h4>
+                        <ul class="list-unstyled offset-lg-top-20">
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Chemical-Sciences/Department-of-Industrial-Chemistry.php">Department of Industrial Chemistry</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Chemical-Sciences/Department-of-Nanoscience-and-Technology.php">Department of Nanoscience <br>and Technology</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Chemical-Sciences/Department-of-Energy-Sciences.php">Department of Energy Sciences</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h4>School of Computational Sciences</h4>
+                        <ul class="list-unstyled offset-lg-top-20">
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Computational-Sciences/Department-of-Computer-Science.php">Department of Computer Science</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Computational-Sciences/Department-of-Computer-Application.php">Department of Computer Application</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Computational-Sciences/Department-of-Computational-Logistics.php">Department of Computational Logistics</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h4>School of Biological Sciences</h4>
+                        <ul class="list-unstyled offset-lg-top-20">
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Biological-Sciences/Department-of-Biotechnology.php">Department of Biotechnology</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Biological-Sciences/Department-of-Animal-Health-and-Management.php">Department of Animal Health<br> and Management</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Biological-Sciences/Department-of-Bioinformatics.php">Department of Bioinformatics</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Biological-Sciences/Department-of-Botany.php">Department of Botany</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Biological-Sciences/Department-of-Microbiology.php">Department of Microbiology</a></li>
+                           <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Biological-Sciences/Department-of-Biomedical.php">Department of Biomedical<br>Sciences</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h4>School of Marine Sciences</h4>
+                        <ul class="list-unstyled offset-lg-top-20">
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Marine-Sciences/Department-of-Oceanography-and-Coastal-Area-Studies.php">Department of Oceanography and <br>Coastal Area Studies</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Marine-Sciences/Department-of-Geology.php">Department of Geology</a></li>
+                            
+                              <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-science/School-of-Marine-Sciences/Department-of-Fisheries-Science.php">Department of Fisheries Science</a></li>
+                    </li>
+                </ul>
+                </li>
+                </ul>
+
+                <ul class="col-lg-3">
+                    <li>
+                        <h6>Faculty of Management</h6><div class="text-subline"></div>
+                        <ul class="list-unstyled offset-lg-top-20">
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-management/dean-and-chairpersons.php">Dean and Chairpersons</a></li>                       
+                        </ul>
+                    </li>
+                    <li>
+                        <h4>School of Management</h4>
+                        <ul class="list-unstyled offset-lg-top-20">
+                           <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-management/school-of-management/Alagappa-Institute-of-Management.php">Alagappa Institute of Management</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-management/school-of-management/Department-of-Logistics-Management.php">Department of Logistics Management</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-management/school-of-management/Department-of-International-Business.php">Department of International Business</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-management/school-of-management/Department-of-Commerce.php">Department of Commerce</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-management/school-of-management/Department-of-Corporate-Secretaryship.php">Department of Corporate Secretaryship</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-management/school-of-management/Department-of-Banking-Management.php">Department of Banking Management</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-management/school-of-management/Department-of-Tourism-and-Hotel-Management.php">Department of Tourism and <br> Hotel Management</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-management/school-of-management/Department-of-Disaster-Management.php">Department of Disaster Management</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="col-lg-3">
+                    <li>
+                        <h6>Faculty of Education</h6><div class="text-subline"></div>
+                        <ul class="list-unstyled offset-lg-top-20">
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-education/dean-and-chairpersons.php">Dean and Chairpersons</a></li>                       
+                        </ul>
+                    </li>
+                    <li>
+                        <h4>School of Education</h4>
+                        <ul class="list-unstyled offset-lg-top-20">
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-education/school-of-education/Department-of-Education.php">Department of Education</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-education/school-of-education/Alagappa-Institute-of-Educational-Sciences.php">Alagappa Institute of <br> Educational Sciences</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-education/school-of-education/Alagappa-University-College-of-Education.php">Alagappa University College of Education</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h4>School of Physical Education</h4>
+                        <ul class="list-unstyled offset-lg-top-20">
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-education/school-of-physical-education/Department-of-Physical-Education-and-Health-Sciences.php">Department of Physical Education <br> and Health Sciences</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-education/school-of-physical-education/Alagappa-University-College-of-Physical-Education.php">Alagappa University College of <br> Physical Education</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-education/school-of-physical-education/Directorate-of-Physical-Education.php">Directorate of Physical Education</a></li>
+                        </ul>
+                    </li>                            
+                    <li>
+                        <h4>School of Extension Education</h4>
+                        <ul class="list-unstyled offset-lg-top-20">
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-education/school-of-extension-education/Department-of-Lifelong-Learning.php">Department of Lifelong Learning</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-education/school-of-extension-education/Department-of-Special-Education-and-Rehabilitation-Science.php">Department of Special Education <br> and Rehabilitation Science</a></li>
+                            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/Academics/faculty-of-education/school-of-extension-education/Alagappa-Institute-of-Skill-Development.php">Alagappa Institute of <br> Skill Development</a></li>
+                        </ul>
+                    </li>
+                </ul>
+
+
+
+
+
+
+                        </div>
+                            </div>
+                            
+                         <!-- <span class="rd-navbar-submenu-toggle"></span></li>
+                          <li class="rd-navbar--has-dropdown rd-navbar-submenu"><a href="#">Admissions</a>
+                      
+                         <ul class="rd-navbar-dropdown">
+                         <li><a href="https://admissions.alagappauniversity.ac.in"> Univeristy Departments Online<br> Admission 2020-2021</a></li>
+                          <li><a href="http://mis.alagappauniversity.ac.in/dde-online/login.php"> Distance Education Online<br> Admission 2021</a></li>
+                          <li><a href="/uploads/applications/Entrance_application_spot_admission.pdf"> MBA Offline Application Form</a></li>
+                          <li><a href="/uploads/applications/Application_for_non_entrance_prog.pdf"> Offline Application for non-entrance <br>& PG Diploma Programmes</a></li>
+                          
+                        
+                        
+                        </ul>  -->
+                         <span class="rd-navbar-submenu-toggle"></span></li>
+
+
+                       <li class="rd-navbar--has-megamenu rd-navbar-submenu"><a href="#">Examinations</a>
+                        <ul class="rd-navbar-megamenu">
+                             <div class="row section-relative">
+                            <ul class="col-lg-3">
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/examinations/officeFunctions.php">Office &amp; Functions</a></li>
+                                   <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/administration/coe.php">Controller of Examinations <br> (COE)</a></li>
+                                   <!--<li><a href="/modules/examinations/addCoe.php">Additional Controller of <br>Examinations</a></li>-->
+                                   <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/examinations/deputyCoe.php">Deputy Controller of <br>Examinations</a></li>
+                                  
+                                     </ul><ul class="col-lg-3">
+                                   
+                                   <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/examinations/fee&amp;Centers.php">Exam Fee &amp; Exam Centres</a></li>
+                                    <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/examinations/examSchedule.php">Exam Schedule &amp; Time-Table</a></li>
+                                    <li><a href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/coe">Revaluation Login</a></li>
+
+                                </ul><ul class="col-lg-3">
+
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/examinations/examRegister.php">Exam Register Online</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules_old/examinations/examResults.php">Exam Results</a></li>
+                                 <li><a href="https://web.archive.org/web/20220308170839/https://mis.alagappauniversity.ac.in/genuineness">Online Genuineness verification/ <br>e-Sanad Login</a></li>
+                                    </ul><ul class="col-lg-3">
+                                <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/examinations/affiliatedStaff.php">Affiliated Colleges - Valuation -<br> Staff Seniority</a></li>
+                                  <li><a href="https://web.archive.org/web/20220308170839/http://162.241.27.72/modules_old/examinations/examQuestions.php">Previous Exams Question <br>Papers</a></li>
+                                       <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/examinations/rt_Undel_certificate.php">Returned and Undelivered <br>Certificates</a></li>
+                             </ul></div>
+                            </ul>
+                         <span class="rd-navbar-submenu-toggle"></span></li>
+                      <li class="rd-navbar--has-megamenu rd-navbar-submenu"><a href="#">DDE</a>
+                        <div class="rd-navbar-megamenu">
+                          <div class="row section-relative">
+                            <ul class="col-lg-3">
+                              <li>
+                               
+                                <ul class="list-unstyled offset-lg-top-20">
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/dde.php">DDE</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/governing_council.php">Governing Council</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/director.php">Director</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/uploads/CIQA.pdf" target="_blank">Centre for Internal Quality <br>Assurance (CIQA)</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/faculty_members.php">Faculty</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/department_of_education.php">Department of Education</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/admission_details.php">Admission Details</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/uploads/Prospectus-2020-21.pdf" target="_blank">DDE Prospectus 2020-2021</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/uploads/Prospectus-2019-20.pdf" target="_blank">DDE Prospectus 2019-2020</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/uploads/prospectus-26oct18.pdf" target="_blank">DDE Prospectus 2018-2019</a></li>
+                                  <li><a href="https://web.archive.org/web/20220308170839/http://162.241.27.72/modules_old/DDE/book_materials.php">Books Materials</a></li>
+                                  
+                                </ul>
+                              </li>
+                            </ul>
+                            <ul class="col-lg-3">
+                              <li>
+                               
+                                <ul class="list-unstyled offset-lg-top-20">
+                                  
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/pg_guide_list.php">PG Guide List</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/ppr.php">Programme Project Report </a></li>
+                                   <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/uploads/Programmes-2019-20.pdf">DDE Programmes 2019-2020</a></li> 
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/uploads/programmes.pdf" target="_blank">DDE Programmes 2018-2019</a></li>
+                              
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/dde_programmes_20172018.php">DDE Programmes 2017-2018</a></li>    
+                                   <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/uploads/CIQA-2018-19.pdf">CIQA-Report-2018-19</a></li>
+                                    <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/uploads/CIQA-2019-20.pdf">CIQA-Report-2019-20</a></li>
+                                    <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/assignments.php">Assignments</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/eligibility_fee_structure.php">Eligibility &amp; Fee Structure</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/uploads/fee_structure.pdf">Revised Fee Structure for <br>Academic Year 2018-2019</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/admission_procedure.php">Admission Procedure</a></li>
+                                </ul>
+                              </li>
+                            </ul>
+                            <ul class="col-lg-3">
+                              <li>
+                                <h6></h6>
+                                <ul class="list-unstyled offset-lg-top-20">
+                                  
+                                  
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/learning_center.php">Learning Centres</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/exam_center_list.php">Exam Centres</a></li>
+                                  <!--<li><a href="/modules/DDE/application_form.php">Application Form</a></li>-->
+                                  <li><a href="https://web.archive.org/web/20220308170839/http://mis.alagappauniversity.ac.in/dde-online/login.php">Student Login <br> [Calendar Year 2020 Onwards]</a></li>
+                                  <li><a href="https://web.archive.org/web/20220308170839/http://mis.alagappauniversity.ac.in/dde-online/login-b23.php">Student Login <br> [2018 and 2019 Academic year]</a></li>
+                                  <li><a href="https://web.archive.org/web/20220308170839/http://mis.alagappauniversity.ac.in/dde-online/BEd/BEd-login.php">B.Ed. Student Login <br> [Calendar Year 2020 Onwards]</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/dec_deb_approval.php">DEC / DEB Approval</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/supervisors.php">Supervisors</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/personal_contact_programme.php">Personal Contact Programme (PCP)</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/syllabi.php">Syllabi</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/uploads/Complaints Handling Mechanism.pdf" target="_blank">Complaints Handling Mechanism</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/uploads/notification-stakeholders-nov.2019.pdf" target="_blank">Notification-Stakeholders</a></li>
+                                    <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/uploads/precautions-august 2020.pdf" target="_blank">Precautions-August 2020</a></li>
+                                  
+                                </ul>
+                              </li>
+                            </ul>
+                            <ul class="col-lg-3">
+                              <li>
+                                <h6></h6>
+                                <ul class="list-unstyled offset-lg-top-20">
+                                
+                                
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/grievance.php">Grievance</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/deb_for_recoganization.php">Application Submitted to <br>UGC-DEB for Recognition of <br>ODL Programmes</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/ugc_odl_regulations.php">Details as per Relevant <br>Clauses of UGC (ODL)<br> Regulations 2017</a></li>
+                                   <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/uploads/part4_vi_.pdf" target="_blank">Academic Calendar of ODL Programmes</a></li>
+                                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/contact_us.php">Contact us</a></li>
+
+                                   <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/DDE/faqs.php">FAQS</a></li>
+                                </ul>
+                              </li>
+                            </ul>
+                           
+                          </div>
+                        </div>
+                      
+                        
+                         <span class="rd-navbar-submenu-toggle"></span>
+                         </li>
+
+                          <li class="rd-navbar--has-dropdown rd-navbar-submenu"><a href="#">Online Programme</a>
+                        <ul class="rd-navbar-dropdown">
+                          <li><a href="https://web.archive.org/web/20220308170839/https://auedu.in/" target="_blank">Apply Online Programme</a></li>
+                          <!--  <li><a href="https://alagappauniversity.ac.in/uploads/notifications/Information_Officer_Application_Form.pdf">Application Form for <br> Information Officer</a></li>  -->                          
+                          
+                          </ul>
+                         <span class="rd-navbar-submenu-toggle"></span></li>
+
+
+<li class="rd-navbar--has-dropdown rd-navbar-submenu"><a href="#">NAAC</a>
+                        <ul class="rd-navbar-dropdown">
+                          <li><a href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/IQAC.php">IQAC</a></li>
+                           <li><a href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/uploads/notifications/SSR_ThirdCycle_AlagappaUniversity.pdf">Third Cycle Self Study Report</a></li>
+                          </ul>
+                         <span class="rd-navbar-submenu-toggle"></span>
+                       </li>
+
+
+
+                          <li class="rd-navbar--has-dropdown rd-navbar-submenu"><a href="#">Research</a>
+                        <ul class="rd-navbar-dropdown">
+                          <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/research/deanResearch.php">Dean Research</a></li>
+                          <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/">Research Projects</a></li>
+                          <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/">Research Publications</a></li>
+                          </ul>
+                         <span class="rd-navbar-submenu-toggle"></span></li>
+
+
+
+
+
+                      
+
+<li class="rd-navbar--has-megamenu rd-navbar-submenu"><a href="#">Facilities</a>
+    <div class="rd-navbar-megamenu">
+      <div class="row section-relative">
+        <ul class="col-lg-3">
+          <li> 
+          <h4>Characterisation Facility</h4> <div class="text-subline"></div>
+          <ul class="list-unstyled offset-lg-top-20">
+            
+            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/usic.php">University Science&nbsp; <br>Instrumentation Centre (USIC)</a></li>
+             <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/materialCharacterisation.php">Dept. of Physics <br> Characterisation Facility </a></li>
+            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/ict.php">Information and <br>Communication Technology (ICT)</a></li>
+
+           
+           
+          </ul> 
+            <h4>Study Circle</h4> <div class="text-subline"></div>
+            <ul class="list-unstyled offset-lg-top-20">
+              <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/sc_home.php">Home</a></li>
+              <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/oi_study_circle.php">About</a></li>
+              <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/sc_reports.php">Report</a></li>
+            </ul> 
+    
+        </li>
+      </ul>
+      
+      
+
+      <div class="col-6"> 
+        <div class="row">
+          <div class="col-12">
+            <center><h4>Other Initiatives</h4> <div class="text-subline"></div></center></div>
+            <ul class="col-lg-6">
+              <li>
+                <ul class="list-unstyled offset-lg-top-20">
+                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/oi_startup_cell_incubation_cell.php">Startup Cell / Incubation Cell</a></li>
+                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/oi_skill_development.php">Skill Development</a></li>
+                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/LRCCE.php">Library Reference Centre for <br> Competitive Examination</a></li>
+                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/solar_park.php">Solar Park</a></li>
+                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/oi_indoor_gymnasium.php">Indoor Gymnasium</a></li>
+                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/oi_new_social_science_block.php">New Social Science Block</a></li>
+                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/oi_alagappa_institute_edu_school.php">Alagappa Institute of <br> Educational Schools</a></li>
+                  <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/oi_info_tech_avenue.php">Information Technology Avenue</a></li>
+                   <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/student_affairs.php">Student Affairs</a></li>
+            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/health_care_centre.php">Health Care Centre</a></li>
+            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/guest_house.php">Guest House</a></li>
+            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/canteen.php">Canteen</a></li>
+                </ul>
+              </li>
+            </ul>
+            <ul class="col-lg-6">
+              <li>
+                <h6></h6>
+                  <ul class="list-unstyled offset-lg-top-20">
+                    <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/oi_international_guest_house_&amp;_hostel.php">International Guest House and Hostel</a></li>
+                    <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/oi_mod_Enht_teaching_learn_amb_class_room.php">Modernization of Enhancement of <br>Teaching Learning Ambience<br> in Class Rooms</a></li>
+                    <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/oi_bio_gas.php">Bio Gas</a></li>
+                    <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/oi_wifi.php">Wifi Hub</a></li>
+                    <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/NME_ICT.php">NME_ICT Project Implementation</a></li>
+                    <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/oi_animal_house.php">Animal House</a></li>
+                     <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/awareness_programmes.php">Awareness Programmes</a></li>
+                     <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/store.php">Stores</a></li>
+             <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/auditorium.php">Auditorium</a></li>
+            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/yoga_center.php">Yoga Centre</a></li> 
+            <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/docs/nss.pdf">NSS</a></li> 
+                  </ul>
+                </li>
+
+
+
+
+                     </ul></div></div>
+                      <ul class="col-lg-3">
+          <li> 
+      
+            <h4>Hostels</h4> <div class="text-subline"></div>
+            <ul class="list-unstyled offset-lg-top-20">
+              <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/hostel_home.php">Home</a></li>
+              <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/hostel_workers_details.php">Hostel Workers Details</a></li>
+              <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/docs/Hostels_and_Inmate_Details.pdf">Inmate Details</a></li>
+              <li><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/facilities/hostels_fee_structure.pdf">Hostels Fee Structure</a></li> 
+              <!--  <li><a href="/modules/facilities/hostels_fee_structure.php">Hostels Fee Structure</a></li>  -->
+              <li><a href="https://web.archive.org/web/20220308170839/http://mis.alagappauniversity.ac.in/hostel-payment/">Alagappa University <br> Online Hostel Administration Portal (OHAP)</a></li>   
+            </ul>
+        </li>
+      </ul>
+                   <!--  <div class="rd-navbar-search-mobile" id="rd-navbar-search-mobile">
+                      <form class="rd-navbar-search-form search-form-icon-right rd-search" action="/#" method="GET">
+                        <div class="form-wrap">
+                          <label class="form-label rd-input-label" for="rd-navbar-mobile-search-form-input">Search...</label>
+                          <input class="rd-navbar-search-form-input form-input form-input-gray-lightest" id="rd-navbar-mobile-search-form-input" type="text" name="s" autocomplete="off">
+                        </div>
+                        <button class="icon fa fa-search rd-navbar-search-button" type="submit"></button>
+                      </form>
+                    </div> -->                    <!--RD Navbar Mobile Search-->
+                 
+                  </div>
+                   
+                </div>
+
+                <!--RD Navbar Search-->
+                <!-- <div class="rd-navbar-search"><a class="rd-navbar-search-toggle mdi" data-rd-navbar-toggle=".rd-navbar-search" href="#"><span></span></a>
+                  <form class="rd-navbar-search-form search-form-icon-right rd-search" action="/puc.php" data-search-live="rd-search-results-live" method="GET">
+                    <div class="form-wrap">
+                      <label class="form-label rd-input-label" for="rd-navbar-search-form-input">Search</label>
+                      <input class="rd-navbar-search-form-input form-input form-input-gray-lightest" id="rd-navbar-search-form-input" type="text" name="s" autocomplete="off">
+                      <div class="rd-search-results-live" id="rd-search-results-live"></div>
+                    </div>
+                  </form>
+                </div> -->
+                <!--RD Navbar shop-->
+                
+            </div>
+          </nav>
+        </div>
+      </header>
+      <div class="d-sm-block d-lg-none d-md-none d-xl-none" style="margin-top: 70px;"></div>
+      <div class="div-only-mobile-show" style="margin-top: 10px">
+                      <a href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/vc_notification.php"><h6 style="color: red"><marquee>Search Committee invites applications for the position of Vice-Chancellor</marquee></h6></a>
+                    </div> <div class="iium-scroll-left">
+  <p><marquee><span class="fa fa-star"></span><font style="color:#FFFFFF;">&nbsp;&nbsp;We are happy to inform that the National Assessment and Accreditation Council (NAAC) has awarded the coveted A+ Grade with 3.64 CGPA to Alagappa University and Graded as <strong>Category-I University by MHRD-UGC</strong><span class="fa fa-star"></span>
+                       <span class="fa fa-star"></span>&nbsp;&nbsp;Alagappa University has obtained Category – I (Category one) Status and eligible to offer courses in distance learning mode without approval of the commission (UGC) (Clause 4.10) as per the Gazette of India Notification dated 12.02.2018.&nbsp;&nbsp;</font><span class="fa fa-star"></span></p></marquee>
+</div><section class="section">
+    <div class="col-12">
+        <div class="row mt-2">
+                <div id="carouselExampleIndicators" class="carousel slide col-sm-9" data-ride="carousel">
+                   <!--  <ol class="carousel-indicators">
+                        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                         <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                         <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+                        <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+                         <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+                         <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
+                        <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
+                         <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
+                         <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
+                        <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
+                         <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
+                    </ol> -->
+                    <div class="carousel-inner" style="border:solid 3px gray">
+                        <div class="carousel-item active">
+                            <img class="d-block w-100" src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/slide-01.jpg" alt="First slide">
+                            <div class="carousel-caption p-0" style="background-color: #00000070;">
+                             <p>Accredited <label>with</label> A+ Grade <label>by</label> NAAC ( CGPA : 3.64 ) <label>in the Third Cycle and Graded as</label> Category-I University <label>by</label> MHRD-UGC</p>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block w-100" src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/slide-rep2022.JPG" alt="Second slide">
+                            <div class="carousel-caption p-0" style="background-color: #00000070;">
+                             <p>Celebrations of  73<sup>rd</sup> Republic Day <label>on 26<sup>th</sup> January 2022</label>.</p>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block w-100" src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/slide-ind2021.jpg" alt="Third slide">
+                            <div class="carousel-caption p-0" style="background-color: #00000070;">
+                             <p>Celebrations of  75<sup>th</sup> Independence Day <label>on 15<sup>th</sup> August 2021</label>.</p>
+                            </div>
+                        </div>
+                        <!-- <div class="carousel-item">
+                            <img class="d-block w-100" src="./images/slide-eic.jpg" alt="First slide">
+                            <div class="carousel-caption p-0" style="background-color: #00000070;">
+                             <p><a href="https://government.economictimes.indiatimes.com/microsite/eiss?ag=aubanner">Click Here to Register</a></p>
+                            </div>
+                        </div> -->
+                         <!-- <div class="carousel-item">
+                            <img class="d-block w-100" src="./images/slide-15.jpg" alt="Third slide">
+                            <div class="carousel-caption p-0" style="background-color: #00000070;">
+                             <p> Prof. N. Rajendran, Vice-Chancellor, Alagappa University, Karaikudi addressed the Dean’s of Faculties, Heads of Departments, Directors, Principals of the Constitutent Colleges through video conferencing today (17.04.2020) and had a discussion with them about the activities and works relating to Research, Project, Completion of Syllabus, Internal Assessment Tests etc. Since the lockdown imposed by the Government on the 24 th March owing to COVID 19 pandemic.</p>
+                            </div>
+                        </div> -->
+                        <!-- <div class="carousel-item">
+                            <img class="d-block w-100" src="./images/slide-14.jpg" alt="Third slide">
+                            <div class="carousel-caption p-0" style="background-color: #00000070;">
+                             <p>காரைக்குடி அழகப்பா பல்கலைக்கழகத் தமிழ் பண்பாட்டு மையத்தின் சார்பில் <label>“தாய்மொழி நாள் விழா”</label> 21.02.2020 - அன்று பல்கலைக்கழகப் பட்டமளிப்பு விழாக் கலையரங்கில் கொண்டாடப்பட்டது</p>
+                            </div>
+                        </div> -->
+                        <!-- <div class="carousel-item">
+                            <img class="d-block w-100" src="./images/slide-13.jpg" alt="Third slide">
+                            <div class="carousel-caption p-0" style="background-color: #00000070;">
+                             <p>One Day <label> “National Symposium on Sardar Vallabhbhai Patel : An Iron Willed Visionary of India”</label> was organized today (27-01-2020) by the Department of History.</p>
+                            </div>
+                        </div> -->
+                         
+                        <!-- <div class="carousel-item">
+                            <img class="d-block w-100" src="./images/slide-12.jpg" alt="Third slide">
+                            <div class="carousel-caption p-0" style="background-color: #00000070;">
+                             <p>The 2nd International Conference on Mathematical Modelling and Computational Methods in Science and Engineering (ICMMCMSE-2020)</p>
+                            </div>
+                        </div> -->
+                        <!-- <div class="carousel-item">
+                            <img class="d-block w-100" src="./images/slide-02.jpg" alt="Second slide">
+                            <div class="carousel-caption p-0" style="background-color: #00000070;">
+                             <p>The 35 th Edition of the Five-day South Zone Inter University Youth Festival - Dec, 2019</p>
+                            </div>
+                        </div> -->
+                        <div class="carousel-item">
+                            <img class="d-block w-100" src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/slide-03.jpg" alt="Third slide">
+                            <div class="carousel-caption p-0" style="background-color: #00000070;">
+                             <p>Excellence in Action</p>
+                            </div>
+                        </div>
+                        <!-- <div class="carousel-item">
+                            <img class="d-block w-100" src="./images/slide-04.jpg" alt="Third slide">
+                            <div class="carousel-caption p-0" style="background-color: #00000070;">
+                             <p><label>Inauguration Function of </label>One day National Symposium on Keeladi Archaeological Excavations.</p>
+                            </div>
+                        </div> -->
+                        <!-- <div class="carousel-item">
+                            <img class="d-block w-100" src="./images/slide-05.jpg" alt="Third slide">
+                            <div class="carousel-caption p-0" style="background-color: #00000070;">
+                             <p>Dr. N. Rajendran,<label> Vice-Chancellor has been honoured with the rank of Honorary Colonel and conferred with the title</label> “Colonel Commandant” </label><label>of the National Cadet Corps</label></p>
+                            </div>
+                        </div> -->
+                        <div class="carousel-item">
+                            <img class="d-block w-100" src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/slide-06.jpg" alt="Third slide">
+                            <div class="carousel-caption p-0" style="background-color: #00000070;">
+                             <p>Alagappa University was established in <span>1985</span></p>
+                            </div>
+                        </div>
+                        
+                        <!-- <div class="carousel-item">
+                            <img class="d-block w-100" src="./images/slide-08.jpg" alt="Third slide">
+                            <div class="carousel-caption p-0" style="background-color: #00000070;">
+                             <p><label>Celebrations of </label>International Women's Day 2019 <label>on 8th March 2019</label></p>
+                            </div>
+                        </div> -->
+                       
+                        <div class="carousel-item">
+                            <img class="d-block w-100" src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/slide-10.jpg" alt="Third slide">
+                            <div class="carousel-caption p-0" style="background-color: #00000070;">
+                             <p>High Polygon 100 ft. National Flag</p>
+                            </div>
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+                <div class="col-12 col-sm-3 notifications">
+                    <div align="center" class="list-group-item" style="background-color:#ffffff;border-color: #ffffff; font-size: 16px; color: #00356b;">&nbsp;<strong>Latest Notifications</strong></div>
+                    <div class="text-subline"></div> <marquee behavior="scroll" direction="up" height="320px" scrolldelay="150" onmouseover="this.stop();" onmouseout="this.start();">
+
+<!-- -------------------No Start ----------- -->
+<!-- /*Common Notofications*/ -->
+ <div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;">
+<a href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/viva.php"><strong style="color: red">Upcoming online P.hD., viva-voce Examinations</strong></a></p>
+</div>
+<hr>
+
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;">
+<a href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/webinar.php"><strong style="color: red">WEBINAR SERIES - All Upcoming Webinars</strong></a></p>
+</div>
+<hr> 
+<!-- /*Common Notofications*/ -->
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;"><a href="uploads/notifications/NCW_invitation_08-03-2022.pdf" target="_blank">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>National Seminar </strong> on “Identification of Abusive Relationship and Designing Mechanism to Prevent Gender based Violence”, Department of Social Work, Alagappa University, Karaikudi </a></p>
+</div>
+<hr>
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;"><a href="uploads/notifications/TANSCHE_08.03.2022.pdf" target="_blank">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>Walk-in Interview for Project Fellow Position (</strong> Two Project fellow positions to work in the TANSCHE sponsored major research project entitled “Porous Nanomaterials for Sensors, Magnetic and Energy Storage and Conversion Applications”  - Department of Nanoscience and Technology, Alagappa University, Karaikudi </a></p>
+</div>
+<hr>
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;"><a href="uploads/notifications/STATE LEVEL QUIZ CONTEST 2022.pdf" target="_blank">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>School of Mathematics is organizing State level Quiz contest for PG Students on 18.03.2022</strong></a></p>
+</div>
+<hr>
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;"><a href="uploads/notifications/advt.1.3.2022.pdf" target="_blank">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>RECRUITMENT OF PROJECT FELLOW</strong> "Molecularly imprinted Polymer based biosensor for tuberculosis detection" - Department of Industrial Chemistry, Alagappa University, Karaikudi </a></p>
+</div>
+<hr>
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;"><a href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/tender_notification.php/">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>Alagappa University - Purchase Section  </strong>Tender Notification : Chemo-Bio-Sensor Facility</a></p>
+</div>
+<hr>
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;"><a href="https://web.archive.org/web/20220308170839/https://mis.alagappauniversity.ac.in/purchase/">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>Alagappa University </strong> Application for Rate Contract for the Year 2022-2023  for the Supply of [Chemicals/ Glasswares/ Plasticwares/ Minor Equipment/ High Purity Gas ] Company Registration Portal</a></p>
+</div>
+<hr>
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>The Last date for Admission to DDE Course is 31.03.2022</strong></p>
+</div>
+<hr>
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;"><a href="uploads/notifications/ICSSR - Brochure.pdf" target="_blank">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>ICSSR - Brochure</strong> Ten Days Research Methodology Course - for M.Phil., / Ph.D., / PDF Scholars in Social Sciences </a></p>
+</div>
+<hr>
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;"><a href="uploads/notifications/REGISTRATION FORM.pdf" target="_blank">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>ICSSR - Registration Form</strong> Ten Days Research Methodology Course - for M.Phil., / Ph.D., / PDF Scholars in Social Sciences </a></p>
+</div>
+<hr>
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;"><a href="https://web.archive.org/web/20220308170839/https://online-exams.alagappauniversity.ac.in/AlU_ExaM_DdE/index.php">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>Distance Education Examination </strong>Dec 2021- Online Examination Link</a></p>
+</div>
+<hr>
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;"><a href="https://web.archive.org/web/20220308170839/https://online-exams.alagappauniversity.ac.in/AlU_ExaM_CoL/index.php">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>Collaborative Programmes </strong> Nov 2021-Online Examination Link</a></p>
+</div>
+<hr>
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;"><a href="https://web.archive.org/web/20220308170839/https://online-exams.alagappauniversity.ac.in/AlU_ExaM_AfF_CoL/index.php">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>Affiliated Colleges</strong> Nov 2021 Online Examination Link</a></p>
+</div>
+<hr>
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;"><a href="uploads/notifications/dde_dec_2021.jpg" target="_blank">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>Distance Education Examination </strong> Date Postponed Intimation</a></p>
+</div>
+<hr>
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;"><a href="uploads/notifications/aff_nov_2021.pdf" target="_blank">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>Affiliated Colleges Examination </strong> Date Postponed Intimation</a></p>
+</div>
+<hr>
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;"><a href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/dde_instructions/time_table.php">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>Distance Education - Guidelines &amp; Time Table - Online Examination  - December 2021</strong></a></p>
+</div>
+<hr>
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;"><a href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/colla_instructions/time_table.php">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>Collaborative Programmes - Guidelines &amp; Time Table - Online Examination  - November 2021</strong></a></p>
+</div>
+<hr>
+
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;"><a href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/affiliated_instructions/time_table.php">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>Affiliated Colleges - Guidelines &amp; Time Table and Other Details for Online Examination - November 2021</strong></a></p>
+</div>
+<hr>
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;"><a href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/surya_namaskar.php">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>Surya Namaskar - 75<sup>th</sup> Anniversary of Independence Day by Online Mode</strong></a></p>
+</div>
+<hr>
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;"><a href="uploads/notifications/tamillogo.pdf" target="_blank">
+<img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px">Alagappa University, Karaikudi - 75 <sup>th</sup> Year India's Independence Celeberation - Use of Tamil Logo is used to both inside and outside of all fair copy communications - Registrar, Alagappa University, Karaikudi</a></p>
+</div>
+<hr>
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;">
+<a href="https://web.archive.org/web/20220308170839/https://admissions.alagappauniversity.ac.in/DepartmentsAdmission/"><img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>University Departments admission 2021( Regular Programmes)</strong></a></p>
+</div>
+<hr>
+
+<!-- <div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;">
+<a href="uploads/notifications/Convocation_Notification_English.pdf"><img src="images/new-gif.gif" width="50px" height="50px"><strong>Alagappa University - 33<sup>rd</sup> and 34<sup>th</sup> Convocation </strong>Notification</a></p>
+</div>
+<hr> -->
+
+
+<!-- <div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;">
+<a href="uploads/notifications/ebook.pdf"><img src="images/new-gif.gif" width="50px" height="50px"><strong>கள்ளழகர் வரலாறும் சித்திரைத்திருவிழா நேரடி வர்ணிப்பும் </strong>- மின்னூல்   </a></p>
+</div>
+<hr> -->
+
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;">
+<a href="https://web.archive.org/web/20220308170839/http://mis.alagappauniversity.ac.in/ALU-Phd/modules/entrance/studentLogin.php"><img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>Pre-Registration Qualifying Entrance Examination for Ph.D. Programme Result - Feb 2021</strong></a></p>
+</div>
+<hr>
+
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;">
+<a href="https://web.archive.org/web/20220308170839/http://alu.magedusolutions.com/Research/preEntrance/alreadyRegisteredPrePhdLogin.php"><img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/new-gif.gif" width="50px" height="50px"><strong>Ph.D. Entrance Examination e - certificate - March 2020</strong></a></p>
+</div>
+<hr>
+
+<!-- 
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;">
+<a href="uploads/notifications/Online Advt Final.pdf"><img src="images/new-gif.gif" width="50px" height="50px"><strong>Applications are invited for admission from the eligible candidates to the Online Programmes from the year 2021 </strong></a></p>
+</div>
+<hr> -->
+
+
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;">
+<a href="https://web.archive.org/web/20220308170839/http://mis.alagappauniversity.ac.in/dde-online/LnC/login.php" target="_blank"><strong style="color:red">Directorate of Distance Education</strong> Learning Centre Login </a></p>
+</div>
+<hr>
+
+
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;">
+<a href="https://web.archive.org/web/20220308170839/http://ws.alagappauniversity.ac.in/grievances/redressalcell.php" target="_blank">REDRESSAL OF GRIEVANCES RELATED TO COVID - 19 PANDEMIC</a></p>
+</div>
+<hr>
+
+<hr>
+<!-- <div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;">
+<a href="https://alagappauniversity.ac.in/corona_yoga.php">Yoga - Protocol of Synchronized Global Prayers to win Covid-19 </a></p>
+</div>
+<hr> -->
+
+
+<!-- 
+<div class="offset-top-30 text-justify">
+<p style="color: black;font-family: Roboto;">
+<a href="/addendum.php"><b style="color: red;">Addendum </b>- Recruitment of Assistant Professors, Associate Professors, Professors, Principal and Librarian - Notification dated 23.01.2020.</a></p></div>
+<hr> -->
+
+</marquee>
+                   <center><a href="/web/20220308170839/https://alagappauniversity.ac.in/nodificationAll.php"><button align="center" class="btn btn-sm" style="background-color: #ffffff; font-size: 16px; color:#00356b;"><strong>View All</strong></button></a></center>
+                </div>
+            </div></div></section>      <!-- A Few Words About the University-->
+
+ <section class="section pt-5">
+        <div class="container-fluid container-wide">
+          <hr class="divider bg-madison">
+          <div class="row row-30 text-md-left">
+            <div class="col-lg-2 text-left mid-class">
+                <!--Nav tabs-->
+         
+            <div class="tabs-vertical tabs-corporate mt-0" id="tabs-4">
+            <ul class="nav nav-tabs ">
+                  <li class="nav-item" role="presentation"><a class="nav-link" href="#tabs-4-1" style="border:2px solid #0d2d62;background:#0d2d62; color: white;"><span class="fa fa-search"></span> &nbsp;Important Links</a></li>
+                  <li class="nav-item" role="presentation"><a class="nav-link" href="affiliatedColleges.php">Affiliated Colleges</a></li>
+                  <li class="nav-item" role="presentation"><a class="nav-link" href="cdc.php">Curriculum Design &amp; <br>Development Cell</a></li>
+                  <li class="nav-item" role="presentation"><a class="nav-link" href="collaborative.php">Collaborative Programmes</a></li>
+                   <li class="nav-item" role="presentation"><a class="nav-link" href="https://web.archive.org/web/20220308170839/http://ws.alagappauniversity.ac.in/rusa">RUSA</a></li>
+                  <li class="nav-item" role="presentation"><a class="nav-link" href="https://web.archive.org/web/20220308170839/http://ws.alagappauniversity.ac.in/lib">Library</a></li>
+                  <li class="nav-item" role="presentation"><a class="nav-link" href="placement.php">Placement</a></li>
+                  <li class="nav-item" role="presentation"><a class="nav-link" href="international.php">International Relations</a></li>
+                  <li class="nav-item" role="presentation"><a class="nav-link" href="IQAC.php">IQAC</a></li>
+                  <li class="nav-item" role="presentation"><a class="nav-link" href="cells_Schemes.php">Cells &amp; Schemes</a></li>
+                  <li class="nav-item" role="presentation"><a class="nav-link" href="pddu.php">Pt. Deendayal Upadhyay Chair</a></li>
+                   <li class="nav-item" role="presentation"><a class="nav-link" href="iic_au.php">Institution’s Innovation Council-Alagappa University</a></li>
+                </ul>
+                
+            </div>
+          </div>
+            <div class="col-lg-8">
+
+
+<div class="col-xs-12 vc-block py-5  d-xl-block d-lg-block d-md-block d-sm-none d-none">
+                <div class="py-5 col-xs-12 col-sm-8 col-md-6 col-lg-5 col-xl-5 spacer-vc-block white-header">
+                  <br><br><br>
+                   <span class="node" style="color: white">Padmabushan</span> <h2 class="mb-4"> Dr.RM.Alagappa Chettiar<br/> <span class="node"></span> </h2>
+                   <!--  <p class="quotes m-0"><span class="fa fa-quote-left qqq"></span> Alagappa University has emerged as a centre of excellence in world class education <span class="fa fa-quote-right qqq"></span></p> -->
+                    <a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/theUniversity/aboutFounder.php" class="common-button mt-4">Read more</a>
+                </div>
+            </div>
+              
+               <!-- responsive block starts -->
+              <div class="col-xs-12 py-0 d-xl-none d-lg-none d-md-none d-sm-block d-block">
+               
+                <div class="row">
+            <div class="col-xs-12 spacer-vc-block hide visible-xs vc-mobile">
+               <!--  <img src="./images/vc.jpg" class="img img-responsive"> -->
+                <img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/founder.jpg" class="img img-responsive">
+            </div>
+            <div class="col-xs-12 pt-4">
+                               <div class="col-xs-12 col-sm-8 offset-sm-2 col-md-6 col-lg-5 spacer-vc-block black-header">
+                                 <br><br><br>
+                   <span class="node" style="color: white">Padmabushan</span> <h2 class="mb-4"> Dr.RM.Alagappa Chettiar<br/> <span class="node"></span> </h2>
+                   <!--  <p class="quotes m-0"><span class="fa fa-quote-left qqq"></span> Alagappa University has emerged as a centre of excellence in world class education <span class="fa fa-quote-right qqq"></span></p> -->
+                    <a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/theUniversity/aboutFounder.php" class="common-button mt-4">Read more</a>
+                </div>
+                           </div>
+        </div>
+            </div>
+            <!-- responsive block ends -->
+
+                       </div>
+              <div class="col-lg-2 text-left mid-class">
+                <!--Nav tabs-->
+            <div class="tabs-vertical tabs-corporate">
+            
+                <ul class="nav nav-tabs">
+                  <li class="nav-item" role="presentation"><a class="nav-link" href="#tabs-4-1" style="border:2px solid #0d2d62;background:#0d2d62; color: white;"><span class="fa fa-paper-plane-o"></span> &nbsp;Quick Links</a></li>
+                  <li class="nav-item" role="presentation"><a class="nav-link" href="https://web.archive.org/web/20220308170839/http://mis.alagappauniversity.ac.in/NME">NME (Non-Major Elective) Registration</a></li>
+                  <li class="nav-item" role="presentation"><a class="nav-link" href="https://web.archive.org/web/20220308170839/http://mis.alagappauniversity.ac.in/purchase">Rate contract 2021-2022</a></li>
+                  <!-- <li class="nav-item" role="presentation"><a class="nav-link" href="http://mis.alagappauniversity.ac.in/event_final">Alagu Fest 2019</a></li> -->
+                  <li class="nav-item" role="presentation"><a class="nav-link" href="pr.php">UGC Project Reports</a></li>
+                   <!-- <li class="nav-item" role="presentation"><a href="https://mis.alagappauniversity.ac.in/genuineness/"  class="nav-link">Online Genuineness </a></li> -->
+                  <li class="nav-item" role="presentation"><a class="nav-link" href="swayam.php">SWAYAM</a></li>
+                  <li class="nav-item" role="presentation"><a class="nav-link" href="nad.php">NAD</a></li>
+                  <li class="nav-item" role="presentation"><a class="nav-link" href="https://web.archive.org/web/20220308170839/http://ws.alagappauniversity.ac.in/capture/event.php">Event and Conferences</a></li>
+                  <li class="nav-item" role="presentation"><a class="nav-link" href="https://web.archive.org/web/20220308170839/http://ws.alagappauniversity.ac.in/grievances/">Alagappa University <br> Grievances</a></li>
+                   <!-- <li class="nav-item" role="presentation"><a class="nav-link" href="./uploads/circulars/Alagappa_University_NIRF_2020_Ranking_Submitted_Data.pdf">NIRF</a></li> -->
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="aurc.php">Alagappa University <br>Ranking Cell (AURC)</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="nirf.php">NIRF 2021</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="uploads/notifications/Final-ARI-U-0435-06.10.2021.pdf"><img src="/web/20220308170839im_/https://alagappauniversity.ac.in/modules/Academics/faculty-of-arts/school-of-social-sciences/images/images/uploads/notifications/images/ariia_logo.jpg"></a></li>
+<li class="nav-item" role="presentation"><a class="nav-link" href="quick_links.php">Downloads</a></li>
+                </ul>
+            </div>
+          </div>
+           </div>
+            </div>
+      </section>    
+      <!-- Footer Classic-->
+  <section class="section section-smt">
+                    <div class="container-fluid">
+                        <div class="row row-30 align-items-lg-center">
+                            <!-- Isotope Filters-->
+                            <div class="col-xl-12">
+                                <div class="isotope-filters isotope-filters-horizontal d-block text-center" style="color: white;background-color: #0d2d62;">
+                                    <button class="isotope-filters-toggle btn button-primary" data-custom-toggle="#isotope-filters" data-custom-toggle-disable-on-blur="true" data-custom-toggle-hide-on-blur="true" style="
+    float: left;
+">Circulars<span class="caret"></span></button>
+                                    <ul class="isotope-filters-modern isotope-filters-list" id="isotope-filters" style="background-color: #0d2d62;">
+                                        <li class="pl-0"><a class="datafilter active" data-isotope-filter="*" style="background-color: #0d2d62;"><span class="fa fa-info-circle"></span> &nbsp;Circulars (All)</a></li>
+                                        <li><a class="datafilter" data-isotope-filter="Examinations"><span class="fa fa-file-text"></span> &nbsp;Examinations</a></li>
+                                        <li><a class="datafilter" data-isotope-filter="DDE"><span class="fa fa-graduation-cap"></span> &nbsp;Distance Education</a></li>
+                                        <li><a class="datafilter" data-isotope-filter="Research"><span class="fa fa-filter"></span> &nbsp;Research</a></li>
+                                        <li><a class="datafilter" data-isotope-filter="Employment"><span class="fa fa-tasks"></span> &nbsp;Employment</a></li>
+                                        <li><a class="datafilter" data-isotope-filter="Tenders"><span class="fa fa-bookmark"></span> &nbsp;Tenders</a></li>
+                                        <li><a class="datafilter" data-isotope-filter="News"><span class="fa fa-book"></span> &nbsp;Alagu News</a></li>
+                                        
+                                       </ul>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-12">
+                             <!--     <marquee behavior="scroll" direction="up" height="300px" scrolldelay="100" scrolldelay="100" style="padding: 20px; border: 1px solid #ddd;"> -->
+                            <marquee behavior="scroll" direction="up" height="300px" scrolldelay="150" scrolldelay="150" onmouseover="this.stop();" onmouseout="this.start();" style="padding: 20px; border: 1px solid #ddd;">
+                             <!--<div class="offset-top-10 filtersa" data-filter="DDE">-->
+                             <!--           <article class="widget-post">-->
+                             <!--               <p class="font-weight-bold text-primary"><a href="/modules/DDE/personal_contact_programme.php">Personal Contact Programme(PCP)</a></p>-->
+                             <!--               <p class="text-dark m-0">Directorate of Distance Education</p>-->
+                             <!--           </article> <hr>-->
+                             <!--       </div>-->
+                             <div class="offset-top-10 filtersa" data-filter="DDE">
+                                        <article class="widget-post">
+                                            <p class="font-weight-bold text-primary"><a href="https://web.archive.org/web/20220308170839/http://mis.alagappauniversity.ac.in/collaborative-alu/" target="_blank">
+                                                Internal Marks Portal - Learning Centre</a></p>
+                                            <p class="text-dark m-0">Directorate of Collaborative Programmes</p>
+                                        </article> <hr>
+                                    </div>
+                                      <div class="offset-top-10 filtersa" data-filter="News">
+                                        <article class="widget-post">
+                                            <p class="font-weight-bold text-primary"><a href="/web/20220308170839/https://alagappauniversity.ac.in/alu_news.php">Alagu News</a></p>
+                                            <p class="text-dark m-0">Publications Officer</p>
+                                        </article> <hr>
+                                    </div>
+                                    <!-- <div class="offset-top-10 filtersa" data-filter="Research">-->
+                                    <!--    <article class="widget-post">-->
+                                    <!--        <p class="font-weight-bold text-primary"><a href="/phd_apply/">Ph.D., Pre-Registration Qualifying Entrance Examination March - 2020</a></p>-->
+                                    <!--        <p class="text-dark m-0">Dean Research</p>-->
+                                    <!--    </article> <hr>-->
+                                    <!--</div>-->
+                                     <div class="offset-top-10 filtersa" data-filter="Employment">
+                                        <article class="widget-post">
+                                            <p class="font-weight-bold text-primary"><a href="/web/20220308170839/https://alagappauniversity.ac.in/addendum.php">Addendum - Recruitment of Assistant Professors, Associate Professors, Professors, Principal and Librarian - Notification dated 23.01.2020.</a></p>
+                                            <p class="text-dark m-0">Registrar</p>
+                                        </article> <hr>
+                                    </div>
+                                    
+                                    <!--<div class="offset-top-10 filtersa" data-filter="Examinations">-->
+                                    <!--    <article class="widget-post">-->
+                                    <!--        <p class="font-weight-bold text-primary"><a href="/modules/examinations/examRegister.php" target="_blank">Examination Register Online - Hall Ticket Download</a></p>-->
+                                    <!--        <p class="text-dark m-0">Controller of Examinations</p>-->
+                                    <!--    </article> <hr>-->
+                                    <!--</div>-->
+                                    <!-- <div class="offset-top-10 filtersa" data-filter="Examinations">-->
+                                    <!--    <article class="widget-post">-->
+                                    <!--        <p class="font-weight-bold text-primary"><a href="/modules/examinations/examResults.php" target="_blank">Examination Results</a></p>-->
+                                    <!--        <p class="text-dark m-0">Controller of Examinations</p>-->
+                                    <!--    </article> <hr>-->
+                                    <!--</div>-->
+                                     
+                                    <div class="offset-top-10 filtersa" data-filter="DDE">
+                                        <article class="widget-post">
+                                            <p class="font-weight-bold text-primary"><a href="https://web.archive.org/web/20220308170839/http://mis.alagappauniversity.ac.in/dde-online/LnC/" target="_blank">
+                                                Learning Centre Login - Admission</a></p>
+                                            <p class="text-dark m-0">Directorate of Distance Education</p>
+                                        </article> <hr>
+                                    </div>
+                                     <div class="offset-top-10 filtersa" data-filter="DDE">
+                                        <article class="widget-post">
+                                            <p class="font-weight-bold text-primary"><a href="https://web.archive.org/web/20220308170839/http://mis.alagappauniversity.ac.in/ddeInternals/" target="_blank">
+                                                Internal Marks Portal - Learning Centre</a></p>
+                                            <p class="text-dark m-0">Directorate of Distance Education</p>
+                                        </article> <hr>
+                                    </div>
+                                       <div class="offset-top-10 filtersa" data-filter="DDE">
+                                        <article class="widget-post">
+                                            <p class="font-weight-bold text-primary"><a href="https://web.archive.org/web/20220308170839/http://mis.alagappauniversity.ac.in/ddeInternals-100/" target="_blank">
+                                                Internal Marks Portal - Karaikudi Centre, Co-ordinators</a></p>
+                                            <p class="text-dark m-0">Directorate of Distance Education</p>
+                                        </article> <hr>
+                                    </div>
+                                    
+                                   
+                                    <div class="offset-top-10 filtersa" data-filter="ALL">
+                                        <article class="widget-post">
+                                            <p class="font-weight-bold text-primary"><a href="nirf.php" target="_blank">Alagappa University NIRF 2021 Ranking Submitted Data</a></p>
+                                            <p class="text-dark m-0">Alagappa University Ranking Cell (AURC)</p>
+                                        </article> <hr>
+                                    </div>
+                                   
+                                   <!-- <div class="offset-top-10 filtersa" data-filter="Research">
+                                        <article class="widget-post">
+                                            <p class="font-weight-bold text-primary"><a href="http://alu.magedusolutions.com/Research/preEntrance/entranceExaminationResult.php">Pre-Ph.D. Result & E-Certificate</a></p>
+                                            <p class="text-dark m-0">Dean Research</p>
+                                        </article> <hr>
+                                    </div> -->
+                                   <div class="offset-top-10 filtersa" data-filter="Research">
+                                        <article class="widget-post">
+                                            <p class="font-weight-bold text-primary"><a href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/viva.php">Upcoming online Ph.D., viva-voce Examination</a></p>
+                                            <p class="text-dark m-0">Dean Research</p>
+                                        </article> <hr>
+                                    </div>
+                                    
+                                </marquee>
+                            </div>
+                        </div>
+                    </div>
+                </section>  
+
+<footer class="page-footer">
+        <div class="hr bg-gray-light"></div>
+        <div class="container-fluid section pt-5 block-after-divider">
+          <div class="row row-50 justify-content-xl-between justify-content-sm-center">
+            <div class="col-lg-3 text-xl-left">
+                            <h6 class="font-weight-bold">Other Links</h6>
+                            <div class="text-subline"></div>
+                            <div class="offset-top-30 mt-3">
+                               <ul class="list-unstyled contact-info">
+                                    <li>
+                                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                                            <div class="unit-left"><span class="fa fa-cloud-download text-middle icon-xs text-madison"></span></div>
+                                            <div class="unit-body"><a href="/web/20220308170839/https://alagappauniversity.ac.in/quick_links.php">Downloads</a> 
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="offset-top-15">
+                                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                                            <div class="unit-left"><span class="fa fa-vcard text-middle icon-xs text-madison"></span></div>
+                                            <div class="unit-body"><a href="/web/20220308170839/https://alagappauniversity.ac.in/quick_links.php">Right to Information Act</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="offset-top-15">
+                                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                                            <div class="unit-left"><span class="fa fa-calendar-check-o text-middle icon-xs text-madison"></span></div>
+                                            <div class="unit-body"><a href="https://web.archive.org/web/20220308170839/https://alagappauniversity.ac.in/uploads/notifications/Academic Calendar 2021-2022.pdf">Academic Calendar 2021-2022</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="offset-top-15">
+                                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                                            <div class="unit-left"><span class="fa fa-users text-middle icon-xs text-madison"></span></div>
+                                            <div class="unit-body"><a href="/web/20220308170839/https://alagappauniversity.ac.in/quick_links.php">Citizen Charter</a></div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                 
+                        </div>
+
+
+                        <div class="col-lg-3 text-xl-left">
+                            <h6 class="font-weight-bold">FAQs</h6>
+                            <div class="text-subline"></div>
+                            <div class="offset-top-30 mt-3">
+                                <ul class="list-unstyled contact-info">
+                                    <li>
+                                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                                            <div class="unit-left"><span class="fa fa-question-circle text-middle icon-xs text-madison"></span></div>
+                                            <div class="unit-body"><a href="/web/20220308170839/https://alagappauniversity.ac.in/faq.php">General Queries</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="offset-top-15">
+                                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                                            <div class="unit-left"><span class="fa fa-mortar-board text-middle icon-xs text-madison"></span></div>
+                                            <div class="unit-body"><a href="/web/20220308170839/https://alagappauniversity.ac.in/faq.php">Examination Related Queries</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="offset-top-15">
+                                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                                            <div class="unit-left"><span class="fa fa-university text-middle icon-xs text-madison"></span></div>
+                                            <div class="unit-body"><a href="/web/20220308170839/https://alagappauniversity.ac.in/faq.php">Distance Education - Queries</a></div>
+                                        </div>
+                                    </li>
+                                    <!-- <li class="offset-top-15">
+                                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                                            <div class="unit-left"><span class="fa fa-diamond text-middle icon-xs text-madison"></span></div>
+                                            <div class="unit-body"><a href="https://ncte.gov.in/">NCTE</a></div>
+                                        </div>
+                                    </li> -->
+                                </ul>
+                            </div>
+                            <!--    <div class="offset-top-15 text-left">
+                                 <ul class="list-inline list-inline-xs list-inline-madison">
+                                   <li><a class="icon icon-xxs fa fa-facebook icon-circle icon-gray-light-filled" href="#"></a></li>
+                                   <li><a class="icon icon-xxs fa fa-twitter icon-circle icon-gray-light-filled" href="#"></a></li>
+                                   <li><a class="icon icon-xxs fa fa-google icon-circle icon-gray-light-filled" href="#"></a></li>
+                                   <li><a class="icon icon-xxs fa fa-instagram icon-circle icon-gray-light-filled" href="#"></a></li>
+                                 </ul>
+                               </div> -->
+                        </div>
+
+
+
+
+                        <div class="col-lg-3 text-xl-left">
+                            <h6 class="font-weight-bold">Special Links</h6>
+                            <div class="text-subline"></div>
+                            <div class="offset-top-30 mt-3">
+                                <ul class="list-unstyled contact-info">
+                                    <li>
+                                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                                            <div class="unit-left"><span class="fa fa-desktop text-middle icon-xs text-madison"></span></div>
+                                           <div class="unit-body"><a href="https://web.archive.org/web/20220308170839/https://www.ugc.ac.in/">UGC</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="offset-top-15">
+                                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                                            <div class="unit-left"><span class="fa fa-trophy text-middle icon-xs text-madison"></span></div>
+                                            <div class="unit-body"><a href="https://web.archive.org/web/20220308170839/http://www.sakshat.ac.in/">NME_ICT</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="offset-top-15">
+                                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                                            <div class="unit-left"><span class="fa fa-laptop text-middle icon-xs text-madison"></span></div>
+                                            <div class="unit-body"><a href="https://web.archive.org/web/20220308170839/https://ncte.gov.in/Website/index.aspx">NCTE</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="offset-top-15">
+                                        <div class="unit flex-row align-items-center unit-spacing-xs">
+                                            <div class="unit-left"><span class="fa fa-file-text text-middle icon-xs text-madison"></span></div>
+                                           <div class="unit-body"><a href="#">Alumni</a></div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!--   <div class="offset-top-15 text-left">
+                                <ul class="list-inline list-inline-xs list-inline-madison">
+                                  <li><a class="icon icon-xxs fa fa-facebook icon-circle icon-gray-light-filled" href="#"></a></li>
+                                  <li><a class="icon icon-xxs fa fa-twitter icon-circle icon-gray-light-filled" href="#"></a></li>
+                                  <li><a class="icon icon-xxs fa fa-google icon-circle icon-gray-light-filled" href="#"></a></li>
+                                  <li><a class="icon icon-xxs fa fa-instagram icon-circle icon-gray-light-filled" href="#"></a></li>
+                                </ul>
+                              </div> -->
+                        </div>
+            <div class="col-lg-3">
+            <h6 class="font-weight-bold">Visiting ALU &amp; Contact</h6>
+            <div class="text-subline"></div>
+            <div class="offset-top-30 mt-3">
+               <div class="col-12">
+                        <div class="row">
+                            <a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/theUniversity/universityMap.php" title="University Map" alt="University Map">
+                                <img src="/web/20220308170839im_/https://alagappauniversity.ac.in/images/univ_map.jpg"/>                 
+                            </a>
+                        </div>
+                    </div>
+                <ul class="list-unstyled contact-info list">
+                  <li>
+                    <div class="unit flex-row align-items-center unit-spacing-xs">
+                      <div class="unit-left"><i class="fa fa-phone-square" aria-hidden="true"></i></div>
+                     <div class="unit-body"><a href="/web/20220308170839/https://alagappauniversity.ac.in/modules/theUniversity/universityMap.php">Contact Us</a>
+                      </div>
+                    </div>
+                  </li>
+            </ul>
+            </div>
+            </div>
+          </div>
+        </div>
+        <div class="bg-madison context-dark">
+          <div class="container-fluid text-lg-left section-5">
+            <div class="row">
+              <div class="col-6 text-center">
+                <span>&copy;&nbsp;</span>
+                <span class="copyright-year"></span> 
+                <span>Alagappa University, Karaikudi, <br>Tamil Nadu, India&nbsp;</span>
+              </div>
+              <div class="col-6 text-center">
+                <span>
+                  <a href="/web/20220308170839/https://alagappauniversity.ac.in/puc.php">Privacy Policy</a> <br> Website Designed and Maintained by :&ensp;MIS,&nbsp;Alagappa University. 
+                <span>
+              </div>
+            </div><br>
+        
+          </div>
+        </div>
+      </footer>
+    </div>
+    <!-- Global Mailform Output-->
+    <div class="snackbars" id="form-output-global"></div>
+    <!-- Java script-->
+    <script src="/web/20220308170839js_/https://alagappauniversity.ac.in/js/core.min.js"></script>
+    <script src="/web/20220308170839js_/https://alagappauniversity.ac.in/js/script.js"></script>
+     <script>
+$('.up').on('click', function () {
+    $('h1,h2,h3,h4,h5,h6').animate({'font-size': '+=5'});
+    $('h1,h2,h3,h4,h5,h6').animate({'line-height': '+=3'});
+    $('li').animate({'font-size': '+=3'});
+    $('p').animate({'font-size': '+=3'});
+   
+
+});
+
+$('.original').on('click', function () {
+    window.location.reload();
+});
+
+
+$('.down').on('click', function () {
+    $('h1,h2,h3,h4,h5,h6').animate({'font-size': '-=5'});
+    $('h1,h2,h3,h4,h5,h6').animate({'line-height': '-=3'});
+    $('li').animate({'font-size': '-=3'});
+    $('p').animate({'font-size': '-=3'});
+});
+</script>
+<script>
+                                $('.ticker').on('click', function () {
+                                    if ($(this).next('div').hasClass('active show')) {
+                                        $(this).next('div').removeClass('active show');
+                                    } else {
+                                        $('.ticker').next('div').removeClass('active show');
+                                        $(this).next('div').addClass('active show');
+                                    }
+                                    $('html,body').animate({scrollTop: $(this).offset().top - 80});
+                                });
+                            </script>
+
+  </body>
+</html><!-- <script type="text/javascript">
+$(window).load(function()
+{
+    $('#myModal').modal('show');
+});
+</script>  --><!--
+     FILE ARCHIVED ON 17:08:39 Mar 08, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:36:08 Apr 12, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.436
+  exclusion.robots: 0.063
+  exclusion.robots.policy: 0.056
+  esindex: 0.006
+  cdx.remote: 5.997
+  LoadShardBlock: 90.649 (3)
+  PetaboxLoader3.datanode: 154.955 (5)
+  load_resource: 419.25
+  PetaboxLoader3.resolve: 333.162
+  loaddict: 75.598
+-->
