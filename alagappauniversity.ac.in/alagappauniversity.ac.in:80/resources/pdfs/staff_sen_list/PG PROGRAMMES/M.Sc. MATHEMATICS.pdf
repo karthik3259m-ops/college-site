@@ -1,0 +1,65 @@
+<html>
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=2N_sDSC0" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://alagappauniversity.ac.in/resources/pdfs/staff_sen_list/pg%20programmes/m.sc.%20mathematics.pdf","20160307065703","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1457333823");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+<title>404 Not Found</title>
+<base href="/web/20160307065703/http://alagappauniversity.ac.in/error_docs/"><!--[if lte IE 6]></BASE><![endif]-->
+</head>
+<body>
+<h1>Not Found</h1>
+The requested document was not found on this server.
+<p>
+<hr>
+<address>
+Web Server at alagappauniversity.ac.in
+</address>
+</body>
+</html>
+
+<!--
+   - Unfortunately, Microsoft has added a clever new
+   - "feature" to Internet Explorer. If the text of
+   - an error's message is "too small", specifically
+   - less than 512 bytes, Internet Explorer returns
+   - its own error message. You can turn that off,
+   - but it's pretty tricky to find switch called
+   - "smart error messages". That means, of course,
+   - that short error messages are censored by default.
+   - IIS always returns error messages that are long
+   - enough to make Internet Explorer happy. The
+   - workaround is pretty simple: pad the error
+   - message with a big comment like this to push it
+   - over the five hundred and twelve bytes minimum.
+   - Of course, that's exactly what you're reading
+   - right now.
+   -->
+<!--
+     FILE ARCHIVED ON 06:57:03 Mar 07, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:40:37 Apr 15, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.689
+  exclusion.robots: 0.07
+  exclusion.robots.policy: 0.059
+  esindex: 0.01
+  cdx.remote: 30.519
+  LoadShardBlock: 82.741 (3)
+  PetaboxLoader3.datanode: 171.046 (4)
+  PetaboxLoader3.resolve: 45.292 (2)
+  load_resource: 146.672
+-->
