@@ -26,7 +26,7 @@ jobs:
           touch oversized_files/skipped_links.txt
       - name: Get Archive File List (2023 to Present)
         run: |
-          DOMAIN="da.alagappauniversity.ac.in"
+          DOMAIN="mis.alagappauniversity.ac.in"
           # Added &from=20230101 to filter for files archived since 2023
           curl -s "https://web.archive.org/cdx/search/cdx?url=$DOMAIN/*&output=text&fl=original&collapse=urlkey&from=20230101000000" | \
           grep -E "\.pdf|\.docx|\.xlsx|\.zip|\.rar|\.sql|\.bak|\.7z|\.doc|\.xls|\.ppt" > file_list.txt || true
