@@ -1585,3 +1585,6 @@ https://alagappauniversity.ac.in/facilities/docs/Magazine(2019-20).pdf | 9642355
 https://www.alagappauniversity.ac.in/docs/alagu-news/APRIL-JUNE_2024.pdf | 114738524
 https://www.alagappauniversity.ac.in/docs/alagu-news/JULY-SEPTEMBER_2024.pdf | 115589232
 https://alagappauniversity.ac.in/facilities/docs/Magazine(2019-20).pdf | 96423554
+https://www.alagappauniversity.ac.in/docs/alagu-news/APRIL-JUNE_2024.pdf | 114738524
+https://www.alagappauniversity.ac.in/docs/alagu-news/JULY-SEPTEMBER_2024.pdf | 115589232
+https://alagappauniversity.ac.in/facilities/docs/Magazine(2019-20).pdf | 96423554
