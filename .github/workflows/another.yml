@@ -1,8 +1,7 @@
 name: IG College 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 */6 * * *'
+
 
 jobs:
   download-and-upload:
